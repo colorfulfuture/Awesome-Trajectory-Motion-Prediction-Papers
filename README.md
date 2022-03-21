@@ -1,4 +1,4 @@
-# Trajectory_Prediction_Papers
+# Trajectory Prediction Papers
 
 Collect Recent Trajectory Prediction Papers, Continually updated.
 Welcome to comments!

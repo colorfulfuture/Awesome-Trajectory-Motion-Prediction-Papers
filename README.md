@@ -3,6 +3,13 @@
 Collect Recent Trajectory Prediction Papers, Continually updated.
 Welcome to comments!
 
+**My Own Paper Reading Link:**
+
+[CVPR2022](https://zhuanlan.zhihu.com/p/480433722)
+
+[ICLR2022](https://zhuanlan.zhihu.com/p/470023167)
+
+
 ## CVPR2022
 
 - Adaptive Trajectory Prediction via Transferable GNN. 

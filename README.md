@@ -3,11 +3,12 @@
 Collect Recent Trajectory Prediction Papers, Continually updated.
 Welcome to comments!
 
-**My Own Paper Reading Link:**
+**My Own Paper Reading Notes Link:**
+[Github](https://github.com/colorfulfuture/Trajectory_Prediction_Papers/blob/main/Reading%20Notes.md)
 
-[CVPR2022](https://zhuanlan.zhihu.com/p/480433722)
+[zhizhu CVPR2022](https://zhuanlan.zhihu.com/p/480433722) 
 
-[ICLR2022](https://zhuanlan.zhihu.com/p/470023167)
+[zhihu ICLR2022](https://zhuanlan.zhihu.com/p/470023167)
 
 
 ## CVPR2022

@@ -23,6 +23,9 @@ Welcome to comments!
 - How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting.
 **[Paper](https://arxiv.org/abs/2203.04781)**
 
+- Remember Intentions: Retrospective-Memory-based Trajectory Prediction.
+**[Paper](https://arxiv.org/abs/2203.11474)**
+
 ## ICLR2022
 
 - D-CODE: Discovering Closed-form ODEs from Observed Trajectories.

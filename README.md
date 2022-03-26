@@ -7,9 +7,9 @@ Welcome to comments!
 
 [Github](https://github.com/colorfulfuture/Trajectory_Prediction_Papers/blob/main/Reading%20Notes.md)
 
-[zhizhu CVPR2022](https://zhuanlan.zhihu.com/p/480433722) 
+[知乎 CVPR2022](https://zhuanlan.zhihu.com/p/480433722) 
 
-[zhihu ICLR2022](https://zhuanlan.zhihu.com/p/470023167)
+[知乎 ICLR2022](https://zhuanlan.zhihu.com/p/470023167)
 
 
 ## CVPR2022

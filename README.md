@@ -26,6 +26,24 @@ Welcome to comments!
 - Remember Intentions: Retrospective-Memory-based Trajectory Prediction.
 **[Paper](https://arxiv.org/abs/2203.11474)**
 
+- Non-Probability Sampling Network for Stochastic Human Trajectory Prediction.
+**[Paper](https://arxiv.org/abs/2203.13471)**
+
+- Vehicle Trajectory Prediction Works, But Not Everywhere.
+**[Paper](https://arxiv.org/abs/2112.03909)**
+
+- Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion.
+**[Paper](https://arxiv.org/abs/2203.13777)**
+
+- End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps.
+**[Paper](https://arxiv.org/abs/2203.16910)**
+
+- M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction.
+**[Paper](https://arxiv.org/abs/2202.11884)**
+
+
+
+
 ## ICLR2022
 
 - D-CODE: Discovering Closed-form ODEs from Observed Trajectories.

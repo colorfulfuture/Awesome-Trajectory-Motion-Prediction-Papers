@@ -1,6 +1,6 @@
 # Trajectory Prediction Papers
 
-Collect Recent Trajectory Prediction Papers, Continually updated.
+Collect Recent Trajectory Prediction Papers, Continually updating.
 Welcome to comments!
 
 **My Own Paper Reading Notes Link:**

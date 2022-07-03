@@ -13,7 +13,7 @@ Welcome to comments!
 
 **Other Related Paper Collection: (Alive)**
 
-[Github](https://github.com/colorfulfuture/vision-based-prediction)
+[Github](https://github.com/aras62/vision-based-prediction)
 
 
 ## CVPR2022

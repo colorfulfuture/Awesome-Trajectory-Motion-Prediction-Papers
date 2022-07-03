@@ -11,6 +11,10 @@ Welcome to comments!
 
 [知乎 ICLR2022](https://zhuanlan.zhihu.com/p/470023167)
 
+**Other Related Paper Collection: (Alive)**
+
+[Github](https://github.com/colorfulfuture/vision-based-prediction)
+
 
 ## CVPR2022
 First main conference, then workshop, in alphabet order.

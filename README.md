@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-Collect Recent Trajectory Prediction Papers, Continually updating.
+Collect Recent Trajectory Prediction Papers, Continually Updating.
 Welcome to comments!
 
 **My Own Paper Reading Notes Link:**
@@ -15,10 +15,10 @@ Welcome to comments!
 
 [Github](https://github.com/aras62/vision-based-prediction)
 
-## ECCV2022
+## ECCV 2022
 TO DO
 
-## CVPR2022
+## CVPR 2022
 First main conference, then workshop, in alphabet order.
 
 ### Trajectory Prediction Related
@@ -141,7 +141,7 @@ First main conference, then workshop, in alphabet order.
 
 
 
-## ICLR2022
+## ICLR 2022
 
 - D-CODE: Discovering Closed-form ODEs from Observed Trajectories.
 **[Paper](https://openreview.net/forum?id=wENMvIsxNN)**

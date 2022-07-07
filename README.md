@@ -157,10 +157,10 @@ First main conference, then workshop, in alphabet order.
 - Scene Transformer: A Unified Architecture for Predicting Multiple Agent Trajectories.
 **[Paper](https://openreview.net/forum?id=Wm3EA5OlHsG)**
 
-- THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling
+- THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling.
 **[Paper](https://openreview.net/forum?id=QDdJhACYrlX)**
 
-- You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction
+- You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction.
 **[Paper](https://openreview.net/forum?id=POxF-LEqnF)**
 
 

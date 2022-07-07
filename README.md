@@ -17,6 +17,8 @@ Welcome to comments!
 
 ## ECCV 2022
 TO DO
+- Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.
+**[Website](https://inhwanbae.github.io/publication/gpgraph/#)**
 
 ## CVPR 2022
 First main conference, then workshop, in alphabet order.
@@ -37,13 +39,16 @@ First main conference, then workshop, in alphabet order.
 - End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps.
 **[arXiv](https://arxiv.org/abs/2203.16910)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_End-to-End_Trajectory_Distribution_Prediction_Based_on_Occupancy_Grid_Maps_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/Kguo-cs/TDOR)**
 
 - Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Graph-Based_Spatial_Transformer_With_Memory_Replay_for_Multi-Future_Pedestrian_Trajectory_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/Jacobieee/ST-MR)**
 
 - GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning.
 **[arXiv](https://arxiv.org/abs/2204.08770)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupNet_Multiscale_Hypergraph_Neural_Networks_for_Trajectory_Prediction_With_Relational_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/MediaBrain-SJTU/GroupNet)**
 
 - How Many Observations are Enough? Knowledge Distillation for Trajectory Forecasting.
 **[arXiv](https://arxiv.org/abs/2203.04781)**
@@ -55,35 +60,44 @@ First main conference, then workshop, in alphabet order.
 - M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction.
 **[arXiv](https://arxiv.org/abs/2202.11884)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_M2I_From_Factored_Marginal_Trajectory_Prediction_to_Interactive_Prediction_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/Tsinghua-MARS-Lab/M2I)**
 
 - Neural Prior for Trajectory Estimation.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Prior_for_Trajectory_Estimation_CVPR_2022_paper.pdf)**
+**[Website](https://mightychaos.github.io/projects/cvpr22/supplementary/supp.html)**
 
 - Non-Probability Sampling Network for Stochastic Human Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2203.13471)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/inhwanbae/NPSN)**
 
 - On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles.
 **[arXiv](https://arxiv.org/abs/2201.05057)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_On_Adversarial_Robustness_of_Trajectory_Prediction_for_Autonomous_Vehicles_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/zqzqz/AdvTrajectoryPrediction)**
 
 - Remember Intentions: Retrospective-Memory-based Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2203.11474)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Remember_Intentions_Retrospective-Memory-Based_Trajectory_Prediction_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/MediaBrain-SJTU/MemoNet)**
 
 - ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_ScePT_Scene-Consistent_Policy-Based_Trajectory_Predictions_for_Planning_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/nvr-avg/ScePT)**
 
 - Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion.
 **[arXiv](https://arxiv.org/abs/2203.13777)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/gutianpei/MID)**
 
 - Vehicle Trajectory Prediction Works, But Not Everywhere.
 **[arXiv](https://arxiv.org/abs/2112.03909)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/vita-epfl/s-attack)**
 
 - Whose Track Is It Anyway? Improving Robustness to Tracking Errors With Affinity-Based Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Weng_Whose_Track_Is_It_Anyway_Improving_Robustness_to_Tracking_Errors_CVPR_2022_paper.pdf)**
+**[Code](https://xinshuoweng.com/projects/Affinipred/)**
 
 - Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction. (CVPR'22 Workshop Precognition: Seeing Through the Future)
 **[arXiv](https://arxiv.org/abs/2204.11561)**
@@ -97,13 +111,16 @@ First main conference, then workshop, in alphabet order.
 
 - BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_BE-STI_Spatial-Temporal_Integrated_Network_for_Class-Agnostic_Motion_Prediction_With_Bidirectional_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/be-sti/be-sti)**
 
 - Forecasting Characteristic 3D Poses of Human Actions.
 **[arXiv](https://arxiv.org/abs/2011.15079)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Diller_Forecasting_Characteristic_3D_Poses_of_Human_Actions_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/chrdiller/characteristic3dposes)**
 
 - HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/ZikangZhou/HiVT)**
 
 - Human Trajectory Prediction With Momentary Observation.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)**
@@ -111,10 +128,12 @@ First main conference, then workshop, in alphabet order.
 - MotionAug: Augmentation With Physical Correction for Human Motion Prediction. 
 **[arXiv](https://arxiv.org/abs/2203.09116)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Maeda_MotionAug_Augmentation_With_Physical_Correction_for_Human_Motion_Prediction_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/meaten/MotionAug)**
 
 - Motron: Multimodal Probabilistic Human Motion Forecasting.
 **[arXiv](https://arxiv.org/abs/2203.04132)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Salzmann_Motron_Multimodal_Probabilistic_Human_Motion_Forecasting_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/TUM-AAS/motron-cvpr22)**
 
 - Multi-Objective Diverse Human Motion Prediction With Knowledge Distillation.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Multi-Objective_Diverse_Human_Motion_Prediction_With_Knowledge_Distillation_CVPR_2022_paper.pdf)**
@@ -122,10 +141,12 @@ First main conference, then workshop, in alphabet order.
 - Multi-Person Extreme Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2105.08825)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Multi-Person_Extreme_Motion_Prediction_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/GUO-W/MultiMotion)**
 
 - Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2203.16051)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Progressively_Generating_Better_Initial_Guesses_Towards_Next_Stages_for_High-Quality_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/705062791/PGBIG)**
 
 - Spatial-Temporal Gating-Adjacency GCN for Human Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2203.01474)**
@@ -134,12 +155,16 @@ First main conference, then workshop, in alphabet order.
 - Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective.
 **[arXiv](https://arxiv.org/abs/2111.14820)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_and_Adaptive_Motion_Forecasting_A_Causal_Representation_Perspective_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/sherwinbahmani/ynet_adaptive)**
 
 - Weakly-Supervised Action Transition Learning for Stochastic Human Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2205.15608)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mao_Weakly-Supervised_Action_Transition_Learning_for_Stochastic_Human_Motion_Prediction_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/wei-mao-2019/WAT)**
 
-
+## ICRA 2022
+- Path-Aware Graph Attention for HD Maps in Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2202.13772)**
 
 ## ICLR 2022
 
@@ -153,6 +178,7 @@ First main conference, then workshop, in alphabet order.
 
 - ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics.
 **[Paper](https://openreview.net/forum?id=s03AQxehtd_)**
+**[Website](https://unity-technologies.github.io/Labs/protores.html)**
 
 - Scene Transformer: A Unified Architecture for Predicting Multiple Agent Trajectories.
 **[Paper](https://openreview.net/forum?id=Wm3EA5OlHsG)**

@@ -18,7 +18,7 @@ Welcome to comments!
 [Github](https://github.com/aras62/vision-based-prediction)
 
 ## ECCV 2022
-TO DO
+Doing
 - Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.
 **[Website](https://inhwanbae.github.io/publication/gpgraph/#)**
 

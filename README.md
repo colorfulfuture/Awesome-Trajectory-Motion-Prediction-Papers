@@ -1,4 +1,6 @@
-# Trajectory/Motion Prediction Papers
+# Trajectory/Motion Prediction Papers  
+
+Last Update: 07/14/2022
 
 Collect Recent Trajectory Prediction Papers, Continually Updating.
 Welcome to comments!
@@ -19,6 +21,16 @@ Welcome to comments!
 TO DO
 - Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.
 **[Website](https://inhwanbae.github.io/publication/gpgraph/#)**
+
+- Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.
+**[arXiv](https://arxiv.org/abs/2207.06235)**
+
+- Polarimetric Pose Prediction.
+**[arXiv](https://arxiv.org/abs/2112.03810)**
+
+- View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums.
+**[arXiv](https://arxiv.org/abs/2110.07288)**
+
 
 ## CVPR 2022
 First main conference, then workshop, in alphabet order.

@@ -53,6 +53,11 @@ First main conference, then workshop, in alphabet order.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_End-to-End_Trajectory_Distribution_Prediction_Based_on_Occupancy_Grid_Maps_CVPR_2022_paper.pdf)**
 **[Code](https://github.com/Kguo-cs/TDOR)**
 
+- Forecasting from LiDAR via Future Object Detection.
+**[arXiv](https://arxiv.org/abs/2203.16297)**
+**[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Peri_Forecasting_From_LiDAR_via_Future_Object_Detection_CVPR_2022_paper.pdf)**
+**[Code](https://github.com/neeharperi/FutureDet)**
+
 - Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Graph-Based_Spatial_Transformer_With_Memory_Replay_for_Multi-Future_Pedestrian_Trajectory_CVPR_2022_paper.pdf)**
 **[Code](https://github.com/Jacobieee/ST-MR)**

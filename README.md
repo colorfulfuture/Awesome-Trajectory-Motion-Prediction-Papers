@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers  
 
-Last Update: 07/15/2022
+Last Update: 07/17/2022
 
 Collect Recent Trajectory Prediction Papers, Continually Updating.
 Welcome to comments!

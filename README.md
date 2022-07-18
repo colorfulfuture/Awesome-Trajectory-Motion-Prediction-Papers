@@ -17,6 +17,10 @@ Welcome to comments!
 
 [Github](https://github.com/aras62/vision-based-prediction)
 
+## arXiv
+- Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
+**[arXiv](https://arxiv.org/abs/2207.05844)**
+
 ## ECCV 2022
 Doing
 - Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.

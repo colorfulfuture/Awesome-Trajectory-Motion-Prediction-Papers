@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers  
 
-Last Update: 07/18/2022
+Last Update: 07/19/2022
 
 Collect Recent Trajectory Prediction Papers, Continually Updating.
 Welcome to comments!
@@ -26,6 +26,9 @@ Doing
 
 - Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.
 **[arXiv](https://arxiv.org/abs/2207.06235)**
+
+- Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting.
+**[arXiv](https://arxiv.org/abs/2207.04624)**
 
 - Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.
 **[Website](https://inhwanbae.github.io/publication/gpgraph/#)**

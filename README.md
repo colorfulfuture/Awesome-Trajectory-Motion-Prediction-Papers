@@ -18,6 +18,9 @@ Welcome to comments!
 [Github](https://github.com/aras62/vision-based-prediction)
 
 ## arXiv
+- SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2206.14116)**
+
 - Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
 **[arXiv](https://arxiv.org/abs/2207.05844)**
 

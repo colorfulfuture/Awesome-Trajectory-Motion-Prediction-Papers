@@ -20,6 +20,7 @@ Welcome to comments!
 ## arXiv
 - SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
 **[arXiv](https://arxiv.org/abs/2206.14116)**
+**[Code](https://github.com/AutoVision-cloud/SSL-Lanes)**
 
 - Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
 **[arXiv](https://arxiv.org/abs/2207.05844)**

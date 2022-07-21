@@ -36,6 +36,7 @@ Doing
 
 - Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2207.09953)**
+**[Code](https://github.com/inhwanbae/GPGraph)**
 **[Website](https://inhwanbae.github.io/publication/gpgraph/#)**
 
 - Polarimetric Pose Prediction.

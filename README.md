@@ -187,7 +187,7 @@ First main conference, then workshop, in alphabet order.
 - Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective.
 **[arXiv](https://arxiv.org/abs/2111.14820)**
 **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_and_Adaptive_Motion_Forecasting_A_Causal_Representation_Perspective_CVPR_2022_paper.pdf)**
-**[Code](https://github.com/sherwinbahmani/ynet_adaptive)**
+**[Code](https://github.com/vita-epfl/causalmotion)**
 
 - Weakly-Supervised Action Transition Learning for Stochastic Human Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2205.15608)**
@@ -195,6 +195,7 @@ First main conference, then workshop, in alphabet order.
 **[Code](https://github.com/wei-mao-2019/WAT)**
 
 ## ICRA 2022
+
 - Path-Aware Graph Attention for HD Maps in Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2202.13772)**
 

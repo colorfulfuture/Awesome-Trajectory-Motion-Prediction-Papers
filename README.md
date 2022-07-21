@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers  
 
-Last Update: 07/19/2022
+Last Update: 07/21/2022
 
 Collect Recent Trajectory Prediction Papers, Continually Updating.
 Welcome to comments!
@@ -35,6 +35,7 @@ Doing
 **[arXiv](https://arxiv.org/abs/2207.04624)**
 
 - Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2207.09953)**
 **[Website](https://inhwanbae.github.io/publication/gpgraph/#)**
 
 - Polarimetric Pose Prediction.

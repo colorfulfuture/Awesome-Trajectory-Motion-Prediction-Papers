@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers  
 
-Last Update: 07/21/2022
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.07.21-lightgrey.svg)
 
 Collect Recent Trajectory Prediction Papers, Continually Updating.
 Welcome to comments!

@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers  
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.07.21-lightgrey.svg) 
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.07.26-lightgrey.svg) 
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -29,6 +29,9 @@ Welcome to comments!
 
 ## ECCV 2022
 Doing
+- Aware of the History: Trajectory Forecasting with the Local Behavior Data.
+**[arXiv](https://arxiv.org/abs/2207.09646)**
+**[Code](https://github.com/Kay1794/LocalBehavior-based-trajectory-prediction)**
 
 - Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.
 **[arXiv](https://arxiv.org/abs/2207.06235)**

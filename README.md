@@ -28,7 +28,10 @@ Welcome to comments!
 **[arXiv](https://arxiv.org/abs/2207.05844)**
 
 ## ECCV 2022
-Doing
+Doing  
+- Action-based Contrastive Learning for Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2207.08664)**
+
 - Aware of the History: Trajectory Forecasting with the Local Behavior Data.
 **[arXiv](https://arxiv.org/abs/2207.09646)**
 **[Code](https://github.com/Kay1794/LocalBehavior-based-trajectory-prediction)**
@@ -39,6 +42,10 @@ Doing
 - Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting.
 **[arXiv](https://arxiv.org/abs/2207.04624)**
 
+- Human Trajectory Prediction via Neural Social Physics.
+**[arXiv](https://arxiv.org/abs/2207.10435)**
+**[Code](https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics)**
+
 - Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2207.09953)**
 **[Code](https://github.com/inhwanbae/GPGraph)**
@@ -46,6 +53,10 @@ Doing
 
 - Polarimetric Pose Prediction.
 **[arXiv](https://arxiv.org/abs/2112.03810)**
+
+- SocialVAE: Human Trajectory Prediction using Timewise Latents.
+**[arXiv](https://arxiv.org/abs/2203.08207)**
+**[Code](https://github.com/xupei0610/SocialVAE)**
 
 - ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning.
 **[arXiv](https://arxiv.org/abs/2207.07601)**

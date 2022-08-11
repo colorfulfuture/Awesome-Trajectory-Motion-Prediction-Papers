@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers  
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.07.26-lightgrey.svg) 
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.08.11-lightgrey.svg) 
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -36,6 +36,11 @@ Doing
 **[arXiv](https://arxiv.org/abs/2207.09646)**
 **[Code](https://github.com/Kay1794/LocalBehavior-based-trajectory-prediction)**
 
+
+- D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights.
+**[arXiv](https://arxiv.org/abs/2207.10398)**
+**[Code](https://github.com/VTP-TL/D2-TPred)**
+
 - Entry-Flipped Transformer for Inference and Prediction of Participant Behavior.
 **[arXiv](https://arxiv.org/abs/2207.06235)**
 
@@ -51,8 +56,15 @@ Doing
 **[Code](https://github.com/inhwanbae/GPGraph)**
 **[Website](https://inhwanbae.github.io/publication/gpgraph/#)**
 
+- Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2208.01302)**
+
 - Polarimetric Pose Prediction.
 **[arXiv](https://arxiv.org/abs/2112.03810)**
+
+- Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction
+**[arXiv](https://arxiv.org/abs/2208.00368)**
+**[Code](https://github.com/MediaBrain-SJTU/SPGSN)**
 
 - SocialVAE: Human Trajectory Prediction using Timewise Latents.
 **[arXiv](https://arxiv.org/abs/2203.08207)**

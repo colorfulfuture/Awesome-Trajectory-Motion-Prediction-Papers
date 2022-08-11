@@ -36,7 +36,6 @@ Doing
 **[arXiv](https://arxiv.org/abs/2207.09646)**
 **[Code](https://github.com/Kay1794/LocalBehavior-based-trajectory-prediction)**
 
-
 - D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights.
 **[arXiv](https://arxiv.org/abs/2207.10398)**
 **[Code](https://github.com/VTP-TL/D2-TPred)**
@@ -62,7 +61,7 @@ Doing
 - Polarimetric Pose Prediction.
 **[arXiv](https://arxiv.org/abs/2112.03810)**
 
-- Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction
+- Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2208.00368)**
 **[Code](https://github.com/MediaBrain-SJTU/SPGSN)**
 

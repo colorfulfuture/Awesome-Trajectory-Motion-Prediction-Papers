@@ -29,6 +29,12 @@ Welcome to comments!
 
 ## ECCV 2022
 Doing  
+
+- Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation.
+**[arXiv](https://arxiv.org/abs/2203.03057)**
+**[Code](https://github.com/abduallahmohamed/Social-Implicit)**
+**[Website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)**
+
 - Action-based Contrastive Learning for Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2207.08664)**
 

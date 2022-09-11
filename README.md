@@ -71,7 +71,7 @@ Doing
   **[arXiv](https://arxiv.org/abs/2207.07601)**
   **[Code](https://github.com/OpenPerceptionX/ST-P3)**
 - View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums.
-  **[arXiv](https://arxiv.org/abs/2110.07288)**
+  **[arXiv](https://arxiv.org/abs/2110.07288)** 
 
 ## CVPR 2022
 

@@ -73,7 +73,6 @@ Doing
 - View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums.
   **[arXiv](https://arxiv.org/abs/2110.07288)**
 
--test
 
 ## CVPR 2022
 

@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.08.31-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.11-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -61,6 +61,9 @@ Doing
   **[arXiv](https://arxiv.org/abs/2203.03057)**
   **[Code](https://github.com/abduallahmohamed/Social-Implicit)**
   **[Website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)**
+- Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-Agent Trajectory Prediction.
+  **[Paper](https://basiclab.lab.nycu.edu.tw/assets/Social-SSL.pdf)**
+  **[Code](https://github.com/Sigta678/Social-SSL)**
 - SocialVAE: Human Trajectory Prediction using Timewise Latents.
   **[arXiv](https://arxiv.org/abs/2203.08207)**
   **[Code](https://github.com/xupei0610/SocialVAE)**

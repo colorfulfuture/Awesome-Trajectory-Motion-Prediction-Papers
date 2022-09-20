@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.11-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.20-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -33,6 +33,8 @@ Doing
 
 - Action-based Contrastive Learning for Trajectory Prediction.
   **[arXiv](https://arxiv.org/abs/2207.08664)**
+- AdvDO: Realistic Adversarial Attacks for Trajectory Prediction.
+  **[arXiv](https://arxiv.org/abs/2209.08744)**
 - Aware of the History: Trajectory Forecasting with the Local Behavior Data.
   **[arXiv](https://arxiv.org/abs/2207.09646)**
   **[Code](https://github.com/Kay1794/LocalBehavior-based-trajectory-prediction)**

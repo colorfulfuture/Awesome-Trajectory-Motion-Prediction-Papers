@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.20-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.24-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -29,7 +29,7 @@ Welcome to comments!
 
 ## ECCV 2022
 
-Doing
+ECCV 2022 All Paper List **[List](https://eccv2022.ecva.net/program/accepted-papers/)**
 
 - Action-based Contrastive Learning for Trajectory Prediction.
   **[arXiv](https://arxiv.org/abs/2207.08664)**
@@ -56,6 +56,9 @@ Doing
   **[arXiv](https://arxiv.org/abs/2208.01302)**
 - Polarimetric Pose Prediction.
   **[arXiv](https://arxiv.org/abs/2112.03810)**
+- PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map.
+  **[arXiv](https://arxiv.org/abs/2204.10435)**
+  **[Code](https://github.com/chenfengxu714/PreTraM)**
 - Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction.
   **[arXiv](https://arxiv.org/abs/2208.00368)**
   **[Code](https://github.com/MediaBrain-SJTU/SPGSN)**
@@ -63,6 +66,7 @@ Doing
   **[arXiv](https://arxiv.org/abs/2203.03057)**
   **[Code](https://github.com/abduallahmohamed/Social-Implicit)**
   **[Website](https://www.abduallahmohamed.com/social-implicit-amdamv-adefde-demo)**
+- Social ODE: Multi-Agent Trajectory Forecasting with Neural Ordinary Differential Equations.
 - Social-SSL: Self-Supervised Cross-Sequence Representation Learning Based on Transformers for Multi-Agent Trajectory Prediction.
   **[Paper](https://basiclab.lab.nycu.edu.tw/assets/Social-SSL.pdf)**
   **[Code](https://github.com/Sigta678/Social-SSL)**

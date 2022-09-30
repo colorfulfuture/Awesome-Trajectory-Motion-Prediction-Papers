@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.24-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.29-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -26,6 +26,15 @@ Welcome to comments!
   **[Code](https://github.com/AutoVision-cloud/SSL-Lanes)**
 - Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
   **[arXiv](https://arxiv.org/abs/2207.05844)**
+
+## NeurIPS 2022
+NeurIPS 2022 All Paper List **[List](https://nips.cc/Conferences/2022/Schedule?type=Poster/)**
+
+- Contact-aware Human Motion Forecasting.
+
+- Forecasting Human Trajectory from Scene History.
+
+- Motion Forecasting Transformer with Global Intention Localization and Local Movement Refinement.
 
 ## ECCV 2022
 

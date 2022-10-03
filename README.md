@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.09.29-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.10.03-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -20,6 +20,11 @@ Welcome to comments!
 [Github](https://github.com/aras62/vision-based-prediction)
 
 ## arXiv
+- Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning.
+  **[arXiv](https://arxiv.org/abs/2209.11820)**
+
+- Safety-compliant Generative Adversarial Networks for Human Trajectory Forecasting. 
+  **[arXiv](https://arxiv.org/abs/2209.12243)**
 
 - SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
   **[arXiv](https://arxiv.org/abs/2206.14116)**

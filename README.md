@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.10.03-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.11.13-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -34,13 +34,17 @@ Welcome to comments!
 
 ## NeurIPS 2022
 NeurIPS 2022 All Paper List **[List](https://nips.cc/Conferences/2022/Schedule?type=Poster/)**
-
 - Contact-aware Human Motion Forecasting.
-
+  **[OpenReview](https://openreview.net/forum?id=LIKlL1Br9AT)**
+  **[arXiv](https://arxiv.org/abs/2210.03954)**
+  **[Code](https://github.com/wei-mao-2019/ContAwareMotionPred)**
 - Forecasting Human Trajectory from Scene History.
-
+  **[OpenReview](https://openreview.net/forum?id=RW-OOBU11xl)**
+  **[arXiv](https://arxiv.org/abs/2210.08732)**
 - Motion Forecasting Transformer with Global Intention Localization and Local Movement Refinement.
-
+  **[OpenReview](https://openreview.net/forum?id=9t-j3xDm7_Q)**
+  **[arXiv](https://arxiv.org/abs/2209.13508)**
+  **[Code](https://github.com/sshaoshuai/MTR)**
 ## ECCV 2022
 
 ECCV 2022 All Paper List **[List](https://eccv2022.ecva.net/program/accepted-papers/)**

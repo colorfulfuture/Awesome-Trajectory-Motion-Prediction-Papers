@@ -41,6 +41,9 @@ NeurIPS 2022 All Paper List **[List](https://nips.cc/Conferences/2022/Schedule?t
 - Forecasting Human Trajectory from Scene History.
   **[OpenReview](https://openreview.net/forum?id=RW-OOBU11xl)**
   **[arXiv](https://arxiv.org/abs/2210.08732)**
+- Interaction Modeling with Multiplex Attention.
+  **[OpenReview](https://openreview.net/forum?id=SeHslYhFx5-)**
+  **[arXiv](https://arxiv.org/abs/2208.10660)**
 - Motion Forecasting Transformer with Global Intention Localization and Local Movement Refinement.
   **[OpenReview](https://openreview.net/forum?id=9t-j3xDm7_Q)**
   **[arXiv](https://arxiv.org/abs/2209.13508)**

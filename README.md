@@ -72,6 +72,10 @@ ECCV 2022 All Paper List **[List](https://eccv2022.ecva.net/program/accepted-pap
 - Aware of the History: Trajectory Forecasting with the Local Behavior Data.
   **[arXiv](https://arxiv.org/abs/2207.09646)**
   **[Code](https://github.com/Kay1794/LocalBehavior-based-trajectory-prediction)**
+- Diverse Human Motion Prediction Guided by Multi-Level Spatial-Temporal Anchors
+  **[arXiv](https://arxiv.org/abs/2302.04860)**
+  **[Code](https://github.com/Sirui-Xu/STARS)**
+  **[Website](https://sirui-xu.github.io/STARS/)**
 - D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights.
   **[arXiv](https://arxiv.org/abs/2207.10398)**
   **[Code](https://github.com/VTP-TL/D2-TPred)**

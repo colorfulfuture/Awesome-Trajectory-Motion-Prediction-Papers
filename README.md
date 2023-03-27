@@ -35,7 +35,27 @@ Welcome to comments!
 
 
 ## CVPR 2023 TO DO
- 
+- EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning.
+**[arXiv](https://arxiv.org/abs/2303.10876)**
+**[Code](https://github.com/MediaBrain-SJTU/EqMotion)**
+
+- IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2303.00575)**
+
+- Leapfrog Diffusion Model for Stochastic Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2303.10895)**
+**[Code](https://github.com/MediaBrain-SJTU/LED)**
+
+- Query-Centric Trajectory Prediction.
+
+- Uncovering the Missing Pattern: Unified Framework
+Towards Trajectory Imputation and Prediction.
+**[Code](https://github.com/colorfulfuture/GC-VRNN)**
+
+- ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries.
+**[arXiv](https://arxiv.org/abs/2208.01582)**
+**[Website](https://tsinghua-mars-lab.github.io/ViP3D/)**
+
 
 ## ICLR 2023  
 ICLR 2023 All Paper List  **[List](https://openreview.net/group?id=ICLR.cc/2023/Conference#notable-top-5-)**

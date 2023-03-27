@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Collect Recent Trajectory and Motion Prediction Papers, Continually Updating.
-Welcome to comments!
+Welcome to Contribute!
 
 **My Own Paper Reading Notes Link:**
 
@@ -20,8 +20,9 @@ Welcome to comments!
 
 [Github](https://github.com/aras62/vision-based-prediction)
 
+___
 
-*First main conference, then workshop, in alphabet order.*
+***First main conference, then workshop, in alphabet order.***
 
 ## CVPR 2023 Doing
 - EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning.

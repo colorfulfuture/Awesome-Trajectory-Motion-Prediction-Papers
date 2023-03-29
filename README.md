@@ -43,6 +43,7 @@ ___
 
 - Uncovering the Missing Pattern: Unified Framework
 Towards Trajectory Imputation and Prediction.
+**[arXiv](https://arxiv.org/abs/2303.16005)**
 **[Code](https://github.com/colorfulfuture/GC-VRNN)**
 
 - ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries.

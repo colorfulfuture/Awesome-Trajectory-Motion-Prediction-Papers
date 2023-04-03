@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.03.28-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.04.03-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -28,6 +28,9 @@ ___
 - EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning.
 **[arXiv](https://arxiv.org/abs/2303.10876)**
 **[Code](https://github.com/MediaBrain-SJTU/EqMotion)**
+
+- FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2303.16574)**
 
 - IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2303.00575)**

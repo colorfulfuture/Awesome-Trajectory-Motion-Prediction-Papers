@@ -67,8 +67,7 @@ CVPR 2023 All Paper List  **[List](https://cvpr2023.thecvf.com/Conferences/2023/
 **[arXiv](https://arxiv.org/abs/2303.05095)**
 **[Code](https://github.com/xiaogangpeng/TBIFormer)**
 
-- Uncovering the Missing Pattern: Unified Framework
-Towards Trajectory Imputation and Prediction.
+- Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction.
 **[arXiv](https://arxiv.org/abs/2303.16005)**
 **[Code](https://github.com/colorfulfuture/GC-VRNN)**
 

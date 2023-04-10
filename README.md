@@ -24,13 +24,24 @@ ___
 
 ***First main conference, then workshop, in alphabet order.***
 
-## CVPR 2023 Doing
+## CVPR 2023
+CVPR 2023 All Paper List  **[List](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)**
+
+- Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction.
+
+- DeFeeNet: Consecutive 3D Human Motion Prediction with Deviation Feedback.
+
 - EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning.
 **[arXiv](https://arxiv.org/abs/2303.10876)**
 **[Code](https://github.com/MediaBrain-SJTU/EqMotion)**
 
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2303.16574)**
+**[Code](https://github.com/RLuke22/FJMP)**
+**[Website](https://rluke22.github.io/FJMP/)**
+
+- FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs.
+**[arXiv](https://arxiv.org/abs/2211.16197)**
 
 - IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2303.00575)**
@@ -39,21 +50,35 @@ ___
 **[arXiv](https://arxiv.org/abs/2303.10895)**
 **[Code](https://github.com/MediaBrain-SJTU/LED)**
 
+- MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion.
+
 - ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals.
 **[arXiv](https://arxiv.org/abs/2303.12071)**
 
 - Query-Centric Trajectory Prediction.
+
+- Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction.
+
+- Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion.
+**[arXiv](https://arxiv.org/abs/2304.01893)**
+**[Website](https://nv-tlabs.github.io/trace-pace/)**
+
+- Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting.
+**[arXiv](https://arxiv.org/abs/2303.05095)**
+**[Code](https://github.com/xiaogangpeng/TBIFormer)**
 
 - Uncovering the Missing Pattern: Unified Framework
 Towards Trajectory Imputation and Prediction.
 **[arXiv](https://arxiv.org/abs/2303.16005)**
 **[Code](https://github.com/colorfulfuture/GC-VRNN)**
 
+- Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction.
+
 - ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries.
 **[arXiv](https://arxiv.org/abs/2208.01582)**
 **[Website](https://tsinghua-mars-lab.github.io/ViP3D/)**
 
-
+- Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving.
 
 ## ICLR 2023
 ICLR 2023 All Paper List  **[List](https://openreview.net/group?id=ICLR.cc/2023/Conference#notable-top-5-)**

@@ -72,6 +72,8 @@ CVPR 2023 All Paper List  **[List](https://cvpr2023.thecvf.com/Conferences/2023/
 **[Code](https://github.com/colorfulfuture/GC-VRNN)**
 
 - Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2304.04298)**
+**[Code](https://github.com/viewsetting/Unsupervised_sampling_promoting)**
 
 - ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries.
 **[arXiv](https://arxiv.org/abs/2208.01582)**

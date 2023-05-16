@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.04.10-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.05.16-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -30,6 +30,8 @@ CVPR 2023 All Paper List  **[List](https://cvpr2023.thecvf.com/Conferences/2023/
 - Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction.
 
 - DeFeeNet: Consecutive 3D Human Motion Prediction with Deviation Feedback.
+**[arXiv](https://arxiv.org/abs/2304.04496)**
+
 
 - EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning.
 **[arXiv](https://arxiv.org/abs/2303.10876)**
@@ -51,6 +53,12 @@ CVPR 2023 All Paper List  **[List](https://cvpr2023.thecvf.com/Conferences/2023/
 **[Code](https://github.com/MediaBrain-SJTU/LED)**
 
 - MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion.
+
+- Planning-oriented Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2212.10156)**
+**[Code](https://github.com/OpenDriveLab/UniAD)**
+**[Website](https://opendrivelab.github.io/UniAD/)**
+
 
 - ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals.
 **[arXiv](https://arxiv.org/abs/2303.12071)**

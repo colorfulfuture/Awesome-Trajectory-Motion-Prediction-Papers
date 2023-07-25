@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.07.24-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.07.25-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -5,10 +5,14 @@
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Collect Recent Trajectory and Motion Prediction Papers, Continually Updating.
+Collect Recent Trajectory and Motion Prediction Papers. Keep Updating.
 Welcome to Contribute!
 
 **My Own Paper Reading Notes Link:**
+
+[My Homepage](https://sites.google.com/view/homepage-of-yi-xu) Feel Free to contact me for any potential collaboration with relevant topics of motion/trajectory prediction, generative models, graph neural networks, etc.
+***Email***: xu.yi@northeastern.edu
+***Wechat***: 578138534
 
 [Github](https://github.com/colorfulfuture/Trajectory_Prediction_Papers/blob/main/Reading%20Notes.md)
 

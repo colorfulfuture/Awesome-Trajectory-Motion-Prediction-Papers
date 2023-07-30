@@ -52,12 +52,12 @@ CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**
 - FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2303.16574)**
-**[Code](https://github.com/RLuke22/FJMP)**
 **[Website](https://rluke22.github.io/FJMP/)**
 
 - FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2211.16197)**
+**[Code](https://github.com/RLuke22/FJMP)**
 
 - IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_IPCC-TP_Utilizing_Incremental_Pearson_Correlation_Coefficient_for_Joint_Multi-Agent_Trajectory_CVPR_2023_paper.pdf)**

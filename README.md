@@ -91,6 +91,7 @@ CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**
 
 - Query-Centric Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf)**
+  **[Code](https://github.com/ZikangZhou/QCNet)**
 
 - Stimulus Verification is a Universal and Effective Sampler in Multi-modal Human Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Stimulus_Verification_Is_a_Universal_and_Effective_Sampler_in_Multi-Modal_CVPR_2023_paper.pdf)**

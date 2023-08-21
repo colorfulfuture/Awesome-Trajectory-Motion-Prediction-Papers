@@ -37,6 +37,9 @@ ICCV 2023 All Papers
 - EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting.
 **[arXiv](https://arxiv.org/abs/2307.09306)**
 
+- Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction 
+**[arxiv](https://arxiv.org/abs/2308.08824)**
+**[Code](https://github.com/meaten/FlowChain-ICCV2023)**
 
 ## CVPR 2023
 CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**

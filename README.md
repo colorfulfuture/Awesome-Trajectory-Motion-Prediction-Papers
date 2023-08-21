@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.08.03-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.08.21-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -34,12 +34,25 @@ ICCV 2023 All Papers
 **[arXiv](https://arxiv.org/abs/2307.14187)**
 **[Website](https://kuis-ai.github.io/adapt/)**
 
+- BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction.
+**[arxiv](https://arxiv.org/abs/2211.14304)**
+**[Code](https://github.com/BarqueroGerman/BeLFusion)**
+**[Website](https://barquerogerman.github.io/BeLFusion/)**
+
 - EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting.
 **[arXiv](https://arxiv.org/abs/2307.09306)**
 
-- Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction 
+- Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction.
 **[arxiv](https://arxiv.org/abs/2308.08824)**
 **[Code](https://github.com/meaten/FlowChain-ICCV2023)**
+
+- HumanMAC: Masked Motion Completion for Human Motion Prediction.
+**[arxiv](https://arxiv.org/abs/2302.03665)**
+**[Code](https://github.com/LinghaoChan/HumanMAC)**
+**[Website](https://lhchen.top/Human-MAC/)**
+
+- TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models.
+**[arxiv](https://arxiv.org/abs/2308.05985)**
 
 ## CVPR 2023
 CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**

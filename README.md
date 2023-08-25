@@ -54,6 +54,10 @@ ICCV 2023 All Papers
 - TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models.
 **[arxiv](https://arxiv.org/abs/2308.05985)**
 
+- INT2: Interactive Trajectory Prediction at Intersections.
+**[Code](https://github.com/AIR-DISCOVER/INT2)**
+**[Website](https://int2.cn/)**
+
 ## CVPR 2023
 CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**
 

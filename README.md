@@ -59,7 +59,7 @@ ICCV 2023 All Papers
 **[Website](https://int2.cn/)**
 
 - R-Pred: Two-Stage Motion Prediction Via Tube-Query Attention-Based Trajectory Refinement.
-**[arxiv](https://arxiv.org/abs/2211.08609)**
+**[arXiv](https://arxiv.org/abs/2211.08609)**
 
 ## CVPR 2023
 CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**

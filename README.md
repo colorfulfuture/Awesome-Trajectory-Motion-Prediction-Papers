@@ -51,6 +51,11 @@ ICCV 2023 All Papers
 **[Code](https://github.com/LinghaoChan/HumanMAC)**
 **[Website](https://lhchen.top/Human-MAC/)**
 
+- InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion.
+**[arxiv](https://arxiv.org/abs/2308.16905)**
+**[Code](https://github.com/Sirui-Xu/InterDiff)**
+**[Website](https://sirui-xu.github.io/InterDiff)**
+  
 - TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models.
 **[arxiv](https://arxiv.org/abs/2308.05985)**
 

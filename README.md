@@ -66,6 +66,10 @@ ICCV 2023 All Papers
 - R-Pred: Two-Stage Motion Prediction Via Tube-Query Attention-Based Trajectory Refinement.
 **[arXiv](https://arxiv.org/abs/2211.08609)**
 
+- Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders
+**[arXiv](https://arxiv.org/abs/2308.09882)**
+**[Code](https://github.com/jchengai/forecast-mae)**
+
 ## CVPR 2023
 CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**
 

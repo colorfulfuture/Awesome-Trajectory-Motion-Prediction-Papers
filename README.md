@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.08.21-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.09.08-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -70,7 +70,7 @@ ICCV 2023 All Papers
 **[arXiv](https://arxiv.org/abs/2308.09882)**
 **[Code](https://github.com/jchengai/forecast-mae)**
 
-- Game-theoretic modeling and learning of Transformer-based interactive prediction and planning
+- Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning
 **[arXiv](https://arxiv.org/abs/2303.05760)**
 **[Code](https://github.com/MCZhi/GameFormer)**
 **[Website](https://mczhi.github.io/GameFormer/)**

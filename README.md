@@ -70,6 +70,11 @@ ICCV 2023 All Papers
 **[arXiv](https://arxiv.org/abs/2308.09882)**
 **[Code](https://github.com/jchengai/forecast-mae)**
 
+- Game-theoretic modeling and learning of Transformer-based interactive prediction and planning
+**[arXiv](https://arxiv.org/abs/2303.05760)**
+**[Code](https://github.com/MCZhi/GameFormer)**
+**[Website](https://mczhi.github.io/GameFormer/)**
+
 ## CVPR 2023
 CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**
 

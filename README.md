@@ -28,6 +28,10 @@ ___
 
 ***First main conference, then workshop, in alphabet order.***
 
+## ICRA 2024
+- MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction
+**[arXiv](https://arxiv.org/abs/2308.10280)**
+
 ## ICCV 2023
 ICCV 2023 All Papers
 - ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation.
@@ -41,6 +45,8 @@ ICCV 2023 All Papers
 
 - EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting.
 **[arXiv](https://arxiv.org/abs/2307.09306)**
+**[Code](https://github.com/inhwanbae/eigentrajectory)**
+**[Website](https://inhwanbae.github.io/publication/eigentrajectory/)**
 
 - Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction.
 **[arxiv](https://arxiv.org/abs/2308.08824)**
@@ -342,6 +348,8 @@ ECCV 2022 All Paper List **[List](https://eccv2022.ecva.net/program/accepted-pap
 - Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving. (CVPR'22 Workshop Precognition: Seeing Through the Future)
   **[arXiv](https://arxiv.org/abs/2204.09121)**
   **[Paper](https://openaccess.thecvf.com/content/CVPR2022W/Precognition/papers/Hazard_Importance_Is_in_Your_Attention_Agent_Importance_Prediction_for_Autonomous_CVPRW_2022_paper.pdf)**
+- TENET: Transformer Encoding Network for Effective Temporal Flow on Motion Prediction (CVPR'22 Workshop)
+**[arXiv](https://arxiv.org/abs/2207.00170)**
 
 ### Motion Prediction Related
 

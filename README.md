@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.09.08-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.09.28-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -11,7 +11,8 @@ Welcome to Contribute!
 **My Own Paper Reading Notes Link:**
 
 [My Homepage](https://sites.google.com/view/homepage-of-yi-xu) Feel Free to contact me for any potential collaboration with relevant topics of motion/trajectory prediction, generative models, graph neural networks, etc.
-***Email***: xu.yi@northeastern.edu
+
+***Email***: xu.yi@northeastern.edu  
 ***Wechat***: 578138534
 
 [Github](https://github.com/colorfulfuture/Trajectory_Prediction_Papers/blob/main/Reading%20Notes.md)
@@ -33,58 +34,94 @@ ___
 **[arXiv](https://arxiv.org/abs/2308.10280)**
 
 ## ICCV 2023
-ICCV 2023 All Papers
+ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**
 - ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Aydemir_ADAPT_Efficient_Multi-Agent_Trajectory_Prediction_with_Adaptation_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2307.14187)**
 **[Website](https://kuis-ai.github.io/adapt/)**
 
 - BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction.
-**[arxiv](https://arxiv.org/abs/2211.14304)**
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Barquero_BeLFusion_Latent_Diffusion_for_Behavior-Driven_Human_Motion_Prediction_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2211.14304)**
 **[Code](https://github.com/BarqueroGerman/BeLFusion)**
 **[Website](https://barquerogerman.github.io/BeLFusion/)**
 
+- BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_BiFF_Bi-level_Future_Fusion_with_Polyline-based_Coordinate_for_Interactive_Trajectory_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2306.14161)**
+
 - EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_EigenTrajectory_Low-Rank_Descriptors_for_Multi-Modal_Trajectory_Forecasting_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2307.09306)**
 **[Code](https://github.com/inhwanbae/eigentrajectory)**
 **[Website](https://inhwanbae.github.io/publication/eigentrajectory/)**
 
 - Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction.
-**[arxiv](https://arxiv.org/abs/2308.08824)**
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Maeda_Fast_Inference_and_Update_of_Probabilistic_Density_Estimation_on_Trajectory_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2308.08824)**
 **[Code](https://github.com/meaten/FlowChain-ICCV2023)**
 
-- Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders
+- Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_Forecast-MAE_Self-supervised_Pre-training_for_Motion_Forecasting_with_Masked_Autoencoders_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2308.09882)**
 **[Code](https://github.com/jchengai/forecast-mae)**
 
-- Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning
+- GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_GameFormer_Game-theoretic_Modeling_and_Learning_of_Transformer-based_Interactive_Prediction_and_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2303.05760)**
 **[Code](https://github.com/MCZhi/GameFormer)**
 **[Website](https://mczhi.github.io/GameFormer/)**
 
 - HumanMAC: Masked Motion Completion for Human Motion Prediction.
-**[arxiv](https://arxiv.org/abs/2302.03665)**
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_HumanMAC_Masked_Motion_Completion_for_Human_Motion_Prediction_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2302.03665)**
 **[Code](https://github.com/LinghaoChan/HumanMAC)**
 **[Website](https://lhchen.top/Human-MAC/)**
 
 - INT2: Interactive Trajectory Prediction at Intersections.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_INT2_Interactive_Trajectory_Prediction_at_Intersections_ICCV_2023_paper.pdf)**
 **[Code](https://github.com/AIR-DISCOVER/INT2)**
 **[Website](https://int2.cn/)**
 
 - InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion.
-**[arxiv](https://arxiv.org/abs/2308.16905)**
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_InterDiff_Generating_3D_Human-Object_Interactions_with_Physics-Informed_Diffusion_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2308.16905)**
 **[Code](https://github.com/Sirui-Xu/InterDiff)**
 **[Website](https://sirui-xu.github.io/InterDiff)**
 
+- Joint Metrics Matter: A Better Standard for Trajectory Forecasting.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Joint_Metrics_Matter_A_Better_Standard_for_Trajectory_Forecasting_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2305.06292)**
+
+- Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Pourkeshavarz_Learn_TAROT_with_MENTOR_A_Meta-Learned_Self-Supervised_Approach_for_Trajectory_ICCV_2023_paper.pdf)**
+
 - R-Pred: Two-Stage Motion Prediction Via Tube-Query Attention-Based Trajectory Refinement.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Choi_R-Pred_Two-Stage_Motion_Prediction_Via_Tube-Query_Attention-Based_Trajectory_Refinement_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2211.08609)**
 
+- Semi-supervised Semantics-guided Adversarial Training for Robust Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiao_Semi-supervised_Semantics-guided_Adversarial_Training_for_Robust_Trajectory_Prediction_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2205.14230)**
+
+- Sparse Instance Conditioned Multimodal Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Sparse_Instance_Conditioned_Multimodal_Trajectory_Prediction_ICCV_2023_paper.pdf)**
+
+- Traj-MAE:MaskedAutoencodersforTrajectoryPrediction.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2303.06697)**
+
+- Trajectory Unified Transformer for Pedestrian Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf)**
+
 - TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models.
-**[arxiv](https://arxiv.org/abs/2308.05985)**
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TrajPAC_Towards_Robustness_Verification_of_Pedestrian_Trajectory_Prediction_Models_ICCV_2023_paper.pdf)**
+**[arXiv](https://arxiv.org/abs/2308.05985)**
 
 
 
 ## CVPR 2023
-CVPR 2023 All Paper **[List](https://openaccess.thecvf.com/CVPR2023)**
+CVPR 2023 All Papers **[List](https://openaccess.thecvf.com/CVPR2023)**
 
 - Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Decompose_More_and_Aggregate_Better_Two_Closer_Looks_at_Frequency_CVPR_2023_paper.pdf)**

@@ -30,7 +30,7 @@ ___
 ***First main conference, then workshop, in alphabet order.***
 
 ## ICRA 2024
-- MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction
+- MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
 
 ## ICCV 2023
@@ -49,6 +49,9 @@ ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**
 - BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_BiFF_Bi-level_Future_Fusion_with_Polyline-based_Coordinate_for_Interactive_Trajectory_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2306.14161)**
+
+- Bootstrap Motion Forecasting With Self-Consistent Constraints.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Bootstrap_Motion_Forecasting_With_Self-Consistent_Constraints_ICCV_2023_paper.pdf)**
 
 - EigenTrajectory: Low-Rank Descriptors for Multi-Modal Trajectory Forecasting.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_EigenTrajectory_Low-Rank_Descriptors_for_Multi-Modal_Trajectory_Forecasting_ICCV_2023_paper.pdf)**
@@ -95,6 +98,9 @@ ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**
 
 - Learn TAROT with MENTOR: A Meta-Learned Self-Supervised Approach for Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Pourkeshavarz_Learn_TAROT_with_MENTOR_A_Meta-Learned_Self-Supervised_Approach_for_Trajectory_ICCV_2023_paper.pdf)**
+
+- MotionLM: Multi-Agent Motion Forecasting as Language Modeling.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Seff_MotionLM_Multi-Agent_Motion_Forecasting_as_Language_Modeling_ICCV_2023_paper.pdf)**
 
 - R-Pred: Two-Stage Motion Prediction Via Tube-Query Attention-Based Trajectory Refinement.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Choi_R-Pred_Two-Stage_Motion_Prediction_Via_Tube-Query_Attention-Based_Trajectory_Refinement_ICCV_2023_paper.pdf)**

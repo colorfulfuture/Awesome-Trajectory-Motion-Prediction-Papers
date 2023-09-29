@@ -107,7 +107,7 @@ ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**
 - Sparse Instance Conditioned Multimodal Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Sparse_Instance_Conditioned_Multimodal_Trajectory_Prediction_ICCV_2023_paper.pdf)**
 
-- Traj-MAE:MaskedAutoencodersforTrajectoryPrediction.
+- Traj-MAE:Masked Autoencoders for Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2303.06697)**
 

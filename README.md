@@ -33,6 +33,11 @@ ___
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
 
+## NeurIPS 2023
+- Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding.
+**[Code](https://github.com/zhejz/HPTR)**
+**[Website](https://zhejz.github.io/hptr)**
+
 ## ICCV 2023
 ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**
 - ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation.
@@ -224,6 +229,10 @@ ICLR 2023 All Paper List  **[List](https://openreview.net/group?id=ICLR.cc/2023/
 ## ICRA 2023
 - Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning.
   **[arXiv](https://arxiv.org/abs/2209.11820)**
+- TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction.
+  **[arXiv](https://arxiv.org/abs/2303.04116)**
+  **[Code](https://github.com/zhejz/TrafficBots)**
+  **[Website](https://zhejz.github.io/trafficbots)**
 
 
 

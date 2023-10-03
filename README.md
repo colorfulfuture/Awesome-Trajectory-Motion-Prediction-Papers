@@ -1,43 +1,43 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.09.28-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.10.03-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Collect Recent Trajectory and Motion Prediction Papers. Keep Updating.
-Welcome to Contribute!
-
-**My Own Paper Reading Notes Link:**
+**Collecting Recent Trajectory and Motion Prediction Papers. Keep Updating.
+Welcome to Contribute!**
 
 [My Homepage](https://sites.google.com/view/homepage-of-yi-xu) Feel Free to contact me for any potential collaboration with relevant topics of motion/trajectory prediction, generative models, graph neural networks, etc.
 
 ***Email***: xu.yi@northeastern.edu  
 ***Wechat***: 578138534
 
-[Github](https://github.com/colorfulfuture/Trajectory_Prediction_Papers/blob/main/Reading%20Notes.md)
-
 [知乎](https://zhuanlan.zhihu.com/p/480433722)
 
-[知乎 ICLR2022](https://zhuanlan.zhihu.com/p/470023167)
-
-**Other Related Paper Collection: (Alive)**
-
-[Github](https://github.com/aras62/vision-based-prediction)
+**Other Paper Collection Repo:** [Github](https://github.com/aras62/vision-based-prediction)
 
 ___
 
 ***First main conference, then workshop, in alphabet order.***
 
-ICRA 2024 2023
+**Bookmarks:**
 
-NeurIPS 2023 2022
+**CVPR** [2023](#cvpr-2023) [2022](#cvpr-2022)
 
-CVPR 2023 2022
+**ICCV** [2023](#iccv-2023)
 
-ICCV 2023
+**ECCV** [2022](#eccv-2022)
 
-ECCV 2022
+**NeurIPS** [2023](#neurips-2023) [2022](#neurips-2022)
+
+**ICLR** [2023](#iclr-2023) [2022](#iclr-2022)
+
+**arXiv** [2022](#arxiv-2022)
+
+**ICRA** [2024](#icra-2024) [2023](#icra-2023) [2022](#icra-2022)
+
+**CoRL** [2022](#corl-2022)
 
 ---
 

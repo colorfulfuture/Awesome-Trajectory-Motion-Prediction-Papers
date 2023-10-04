@@ -45,6 +45,11 @@ ___
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
 
+## IROS 2023
+- Streaming Motion Forecasting for Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2310.01351)**
+**[Code](https://github.com/ziqipang/StreamingForecasting)**
+
 ## NeurIPS 2023
 - Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding.
 **[Code](https://github.com/zhejz/HPTR)**

@@ -46,6 +46,9 @@ ___
 **[arXiv](https://arxiv.org/abs/2308.10280)**
 
 ## IROS 2023
+- Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility.
+**[Website](https://saferobotics.princeton.edu/research/responsibility)**
+
 - Streaming Motion Forecasting for Autonomous Driving.
 **[arXiv](https://arxiv.org/abs/2310.01351)**
 **[Code](https://github.com/ziqipang/StreamingForecasting)**

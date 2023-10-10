@@ -51,6 +51,10 @@ ___
 - Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility.
 **[Website](https://saferobotics.princeton.edu/research/responsibility)**
 
+- Joint Out-of-Distribution Detection and Uncertainty Estimation for Trajectory Prediction.
+ **[arXiv](https://arxiv.org/abs/2308.01707)**
+ **[Code](https://github.com/againerju/joodu)**
+
 - Streaming Motion Forecasting for Autonomous Driving.
 **[arXiv](https://arxiv.org/abs/2310.01351)**
 **[Code](https://github.com/ziqipang/StreamingForecasting)**

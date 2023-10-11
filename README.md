@@ -51,6 +51,10 @@ ___
 - Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility.
 **[Website](https://saferobotics.princeton.edu/research/responsibility)**
 
+- Joint Out-of-Distribution Detection and Uncertainty Estimation for Trajectory Prediction.
+ **[arXiv](https://arxiv.org/abs/2308.01707)**
+ **[Code](https://github.com/againerju/joodu)**
+
 - Streaming Motion Forecasting for Autonomous Driving.
 **[arXiv](https://arxiv.org/abs/2310.01351)**
 **[Code](https://github.com/ziqipang/StreamingForecasting)**
@@ -151,7 +155,9 @@ ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TrajPAC_Towards_Robustness_Verification_of_Pedestrian_Trajectory_Prediction_Models_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2308.05985)**
 
-
+- TUTR: Trajectory Unified Transformer for Pedestrian Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf)**
+**[Code](https://github.com/lssiair/TUTR)**
 
 ## CVPR 2023
 CVPR 2023 All Papers **[List](https://openaccess.thecvf.com/CVPR2023)**

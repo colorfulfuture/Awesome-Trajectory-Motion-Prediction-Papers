@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.10.03-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.10.13-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -150,14 +150,12 @@ ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**
 
 - Trajectory Unified Transformer for Pedestrian Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf)**
+**[Code](https://github.com/lssiair/TUTR)**
 
 - TrajPAC: Towards Robustness Verification of Pedestrian Trajectory Prediction Models.
 **[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TrajPAC_Towards_Robustness_Verification_of_Pedestrian_Trajectory_Prediction_Models_ICCV_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2308.05985)**
 
-- TUTR: Trajectory Unified Transformer for Pedestrian Trajectory Prediction.
-**[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf)**
-**[Code](https://github.com/lssiair/TUTR)**
 
 ## CVPR 2023
 CVPR 2023 All Papers **[List](https://openaccess.thecvf.com/CVPR2023)**

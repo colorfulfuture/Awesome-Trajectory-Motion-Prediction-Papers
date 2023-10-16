@@ -259,6 +259,10 @@ ICLR 2023 All Paper List  **[List](https://openreview.net/group?id=ICLR.cc/2023/
 - Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning.
   **[arXiv](https://arxiv.org/abs/2209.11820)**
 
+- GANet: Goal Area Network for Motion Forecasting.
+  **[arXiv](https://arxiv.org/abs/2209.09723)**
+  **[Code](https://github.com/kingwmk/GANet)**
+
 - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction.
   **[arXiv](https://arxiv.org/abs/2303.04116)**
   **[Code](https://github.com/zhejz/TrafficBots)**

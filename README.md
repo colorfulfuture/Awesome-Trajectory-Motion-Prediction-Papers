@@ -183,6 +183,10 @@ CVPR 2023 All Papers **[List](https://openaccess.thecvf.com/CVPR2023)**
 **[Website](https://rluke22.github.io/FJMP/)**
 **[Code](https://github.com/RLuke22/FJMP)**
 
+- Improving Multi-Agent Motion Prediction with Heuristic Goals and Motion Refinement.(CVPR23 workshop)
+**[Paper](https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Conde_Improving_Multi-Agent_Motion_Prediction_With_Heuristic_Goals_and_Motion_Refinement_CVPRW_2023_paper.pdf)
+**[Code](https://github.com/Cram3r95/argo2goalmp)**
+
 - IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_IPCC-TP_Utilizing_Incremental_Pearson_Correlation_Coefficient_for_Joint_Multi-Agent_Trajectory_CVPR_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2303.00575)**
@@ -258,6 +262,10 @@ ICLR 2023 All Paper List  **[List](https://openreview.net/group?id=ICLR.cc/2023/
 ## ICRA 2023
 - Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning.
   **[arXiv](https://arxiv.org/abs/2209.11820)**
+
+- GANet: Goal Area Network for Motion Forecasting.
+  **[arXiv](https://arxiv.org/abs/2209.09723)**
+  **[Code](https://github.com/kingwmk/GANet)**
 
 - TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction.
   **[arXiv](https://arxiv.org/abs/2303.04116)**

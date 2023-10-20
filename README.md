@@ -61,6 +61,7 @@ ___
 
 ## NeurIPS 2023
 - Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding.
+**[arXiv](https://arxiv.org/abs/2310.12970)**
 **[Code](https://github.com/zhejz/HPTR)**
 **[Website](https://zhejz.github.io/hptr)**
 

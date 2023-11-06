@@ -241,6 +241,7 @@ CVPR 2023 All Papers **[List](https://openaccess.thecvf.com/CVPR2023)**
 - ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries.
 **[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf)**
 **[arXiv](https://arxiv.org/abs/2208.01582)**
+**[Code](https://github.com/Tsinghua-MARS-Lab/ViP3D)**
 **[Website](https://tsinghua-mars-lab.github.io/ViP3D/)**
 
 - Weakly Supervised Class-agnostic Motion Prediction for Autonomous Driving.

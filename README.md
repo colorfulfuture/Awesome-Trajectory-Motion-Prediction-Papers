@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.10.13-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.12.15-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -60,10 +60,39 @@ ___
 **[Code](https://github.com/ziqipang/StreamingForecasting)**
 
 ## NeurIPS 2023
+- BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction.
+**[OpenReview](https://openreview.net/forum?id=FOFJmR1oxt)**
+
 - Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding.
 **[arXiv](https://arxiv.org/abs/2310.12970)**
 **[Code](https://github.com/zhejz/HPTR)**
 **[Website](https://zhejz.github.io/hptr)**
+
+- Social Motion Prediction with Cognitive Hierarchies.
+**[arXiv](https://arxiv.org/abs/2311.04726)**
+**[Code](https://github.com/Walter0807/Social-CH)**
+**[Website](https://walter0807.github.io/Social-CH/)**
+
+- What Truly Matters in Trajectory Prediction for Autonomous Driving?
+**[arXiv](https://arxiv.org/abs/2306.15136)**
+**[Code](https://github.com/AdaCompNUS/WhatMatters)**
+**[Website](https://whatmatters23.github.io/)**
+
+### Datasets and Benchmarks Track
+- Humans in Kitchens: A Dataset for Multi-Person Human Motion Forecasting with Scene Context.
+**[OpenReview](https://openreview.net/forum?id=_s1N-DnxdyT)**
+**[Code](https://github.com/jutanke/hik)**
+
+- SiT Dataset: Socially Interactive Pedestrian Trajectory Dataset for Social Navigation Robots.
+**[OpenReview](https://openreview.net/forum?id=gMYsxTin4x)**
+**[Code](https://github.com/SPALaboratory/SiT-Dataset)**
+**[Website](https://spalaboratory.github.io/SiT/)**
+
+- trajdata: A Unified Interface to Multiple Human Trajectory Datasets.
+**[arXiv](https://arxiv.org/abs/2307.13924)**
+**[Code](https://github.com/NVlabs/trajdata)**
+
+
 
 ## ICCV 2023
 ICCV 2023 All Papers **[List](https://openaccess.thecvf.com/ICCV2023)**

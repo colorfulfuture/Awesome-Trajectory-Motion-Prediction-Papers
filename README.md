@@ -73,6 +73,10 @@ ___
 **[Code](https://github.com/Walter0807/Social-CH)**
 **[Website](https://walter0807.github.io/Social-CH/)**
 
+- trajdata: A Unified Interface to Multiple Human Trajectory Datasets.
+**[arXiv](https://arxiv.org/pdf/2307.13924.pdf)**
+**[Code](https://github.com/NVlabs/trajdata)**
+
 - What Truly Matters in Trajectory Prediction for Autonomous Driving?
 **[arXiv](https://arxiv.org/abs/2306.15136)**
 **[Code](https://github.com/AdaCompNUS/WhatMatters)**

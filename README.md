@@ -39,13 +39,17 @@ ___
 
 **IROS** [2023](#iros-2023)
 
-**CoRL** [2022](#corl-2022)
+**CoRL** [2023](#corl-2023) [2022](#corl-2022)
 
 ---
 
 ## ICRA 2024
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
+
+## CoRL 2023
+- Multi-Predictor Fusion: Combining Learning-based and Rule-based Trajectory Predictors.
+**[arXiv](https://arxiv.org/abs/2307.01408)**
 
 ## IROS 2023
 - Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility.

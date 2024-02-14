@@ -46,6 +46,8 @@ ___
 ## ICRA 2024
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
+- MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR.
+**[arXiv](https://arxiv.org/abs/2312.02409)**
 
 ## CoRL 2023
 - Multi-Predictor Fusion: Combining Learning-based and Rule-based Trajectory Predictors.

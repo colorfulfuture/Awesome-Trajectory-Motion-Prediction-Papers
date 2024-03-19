@@ -23,7 +23,7 @@ ___
 
 **Bookmarks:**
 
-**CVPR** [2023](#cvpr-2023) [2022](#cvpr-2022)
+**CVPR** [2024](#cvpr-2024) [2023](#cvpr-2023) [2022](#cvpr-2022)
 
 **ICCV** [2023](#iccv-2023)
 
@@ -41,13 +41,37 @@ ___
 
 **CoRL** [2023](#corl-2023) [2022](#corl-2022)
 
+**RAL** [2024](#ral-2024)
+
 ---
+## RAL 2024
+- SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2402.02519)**
+**[Code](https://github.com/HKUST-Aerial-Robotics/SIMPL)**
+
+## CVPR 2024
+- Human-Motion-Prediction-under-Unexpected-Perturbation.
+**[Code](https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation)**
+
+- SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2403.11492)**
+**[Code](https://github.com/opendilab/SmartRefine)**
+
+- Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations.
+**[Code](https://github.com/kwwcv/SelfMotion)**
+
+- Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction.
+**[Code](https://github.com/InhwanBae/LMTrajectory)**
 
 ## ICRA 2024
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
 - MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR.
 **[arXiv](https://arxiv.org/abs/2312.02409)**
+- Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments.
+**[arXiv](http://arxiv.org/abs/2402.04318)**
+**[Code](https://github.com/Petrichor625/Gava)**
+
 
 ## CoRL 2023
 - Multi-Predictor Fusion: Combining Learning-based and Rule-based Trajectory Predictors.

@@ -54,7 +54,7 @@ ___
 **[Code](https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation)**
 
 - SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction.
-**[arXiv](https://arxiv.org/abs/2403.11492)
+**[arXiv](https://arxiv.org/abs/2403.11492)**
 **[Code](https://github.com/opendilab/SmartRefine)**
 
 - Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations.

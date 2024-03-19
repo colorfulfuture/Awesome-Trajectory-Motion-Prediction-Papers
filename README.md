@@ -23,7 +23,7 @@ ___
 
 **Bookmarks:**
 
-**CVPR** [2023](#cvpr-2023) [2022](#cvpr-2022)
+**CVPR** [2024](#cvpr-2024) [2023](#cvpr-2023) [2022](#cvpr-2022)
 
 **ICCV** [2023](#iccv-2023)
 
@@ -54,7 +54,8 @@ ___
 **[Code](https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation)**
 
 - SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction.
-**[Code](https://github.com/opendilab/SmartRefine?tab=readme-ov-file)**
+**[arXiv](https://arxiv.org/abs/2403.11492)
+**[Code](https://github.com/opendilab/SmartRefine)**
 
 - Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations.
 **[Code](https://github.com/kwwcv/SelfMotion)**

@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.12.15-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.03.20-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -44,30 +44,56 @@ ___
 **RAL** [2024](#ral-2024)
 
 ---
-## RAL 2024
-- SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving.
-**[arXiv](https://arxiv.org/abs/2402.02519)**
-**[Code](https://github.com/HKUST-Aerial-Robotics/SIMPL)**
 
 ## CVPR 2024
-- Human-Motion-Prediction-under-Unexpected-Perturbation.
+- Adapting to Length Shift: FlexiLength Network for Trajectory Prediction.
+
+- Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving.
+
+- CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving.
+
+- Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction.
+**[Code](https://github.com/InhwanBae/LMTrajectory)**
+
+- Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction.
+
+- Higher-order Relational Reasoning for Pedestrian Trajectory Prediction.
+
+- HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention.
+
+- Human Motion Prediction under Unexpected Perturbation.
 **[Code](https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation)**
+
+- Producing and Leveraging Online Map Uncertainty in Trajectory Prediction.
+
+- Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations.
+**[Code](https://github.com/kwwcv/SelfMotion)**
+
+- SingularTrajectory: Universal Trajectory Predictor using Diffusion Model
 
 - SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2403.11492)**
 **[Code](https://github.com/opendilab/SmartRefine)**
 
-- Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations.
-**[Code](https://github.com/kwwcv/SelfMotion)**
+- SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction
 
-- Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction.
-**[Code](https://github.com/InhwanBae/LMTrajectory)**
+- T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory.
+**[arXiv](https://arxiv.org/abs/2403.10052)**
+
+
+## RAL 2024
+- SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2402.02519)**
+**[Code](https://github.com/HKUST-Aerial-Robotics/SIMPL)**
+
 
 ## ICRA 2024
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
+
 - MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR.
 **[arXiv](https://arxiv.org/abs/2312.02409)**
+
 - Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments.
 **[arXiv](http://arxiv.org/abs/2402.04318)**
 **[Code](https://github.com/Petrichor625/Gava)**

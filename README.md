@@ -31,7 +31,7 @@ ___
 
 **NeurIPS** [2023](#neurips-2023) [2022](#neurips-2022)
 
-**ICLR** [2023](#iclr-2023) [2022](#iclr-2022)
+**ICLR** [2024](#iclr-2024) [2023](#iclr-2023) [2022](#iclr-2022)
 
 **arXiv** [2022](#arxiv-2022)
 
@@ -60,6 +60,7 @@ ___
 - Higher-order Relational Reasoning for Pedestrian Trajectory Prediction.
 
 - HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention.
+**[Code](https://github.com/XiaolongTang23/HPNet)**
 
 - Human Motion Prediction under Unexpected Perturbation.
 **[Code](https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation)**
@@ -67,6 +68,7 @@ ___
 - Producing and Leveraging Online Map Uncertainty in Trajectory Prediction.
 
 - Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations.
+**[arXiv](https://arxiv.org/abs/2403.13261)**
 **[Code](https://github.com/kwwcv/SelfMotion)**
 
 - SingularTrajectory: Universal Trajectory Predictor using Diffusion Model
@@ -79,6 +81,14 @@ ___
 
 - T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory.
 **[arXiv](https://arxiv.org/abs/2403.10052)**
+
+## ICLR 2024
+- SEPT: Towards Efficient Scene Representation Learning for Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2309.15289)**
+ 
+- Social-Transmotion: Promptable Human Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2312.16168)**
+**[Code](https://github.com/vita-epfl/social-transmotion)**
 
 
 ## RAL 2024

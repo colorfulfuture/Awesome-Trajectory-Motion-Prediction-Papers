@@ -66,6 +66,8 @@ ___
 **[Code](https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation)**
 
 - Producing and Leveraging Online Map Uncertainty in Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2403.16439)**
+**[Code](https://github.com/alfredgu001324/MapUncertaintyPrediction)**
 
 - Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations.
 **[arXiv](https://arxiv.org/abs/2403.13261)**

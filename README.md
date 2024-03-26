@@ -73,13 +73,17 @@ ___
 **[arXiv](https://arxiv.org/abs/2403.13261)**
 **[Code](https://github.com/kwwcv/SelfMotion)**
 
-- SingularTrajectory: Universal Trajectory Predictor using Diffusion Model
+- SingularTrajectory: Universal Trajectory Predictor using Diffusion Model.
+**[Website](https://ihbae.com/publication/singulartrajectory/)**
+**[Code](https://github.com/InhwanBae/SingularTrajectory)**
 
 - SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2403.11492)**
 **[Code](https://github.com/opendilab/SmartRefine)**
 
-- SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction
+- SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2310.05370)**
+**[Code](https://github.com/cocoon2wong/SocialCircle/tree/TorchVersion(beta))**
 
 - T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory.
 **[arXiv](https://arxiv.org/abs/2403.10052)**

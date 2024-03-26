@@ -54,6 +54,7 @@ ___
 
 - Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction.
 **[Code](https://github.com/InhwanBae/LMTrajectory)**
+**[Website](https://ihbae.com/publication/lmtrajectory/)**
 
 - Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction.
 

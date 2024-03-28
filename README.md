@@ -53,6 +53,7 @@ ___
 - CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving.
 
 - Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2403.18447)**
 **[Code](https://github.com/InhwanBae/LMTrajectory)**
 **[Website](https://ihbae.com/publication/lmtrajectory/)**
 
@@ -75,6 +76,7 @@ ___
 **[Code](https://github.com/kwwcv/SelfMotion)**
 
 - SingularTrajectory: Universal Trajectory Predictor using Diffusion Model.
+**[arXiv](https://arxiv.org/abs/2403.18452)**
 **[Website](https://ihbae.com/publication/singulartrajectory/)**
 **[Code](https://github.com/InhwanBae/SingularTrajectory)**
 

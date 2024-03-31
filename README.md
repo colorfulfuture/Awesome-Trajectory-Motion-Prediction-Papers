@@ -91,6 +91,8 @@ ___
 - T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory.
 **[arXiv](https://arxiv.org/abs/2403.10052)**
 
+- Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning.
+
 ## ICLR 2024
 - SEPT: Towards Efficient Scene Representation Learning for Motion Prediction.
 **[arXiv](https://arxiv.org/abs/2309.15289)**
@@ -117,6 +119,10 @@ ___
 **[arXiv](http://arxiv.org/abs/2402.04318)**
 **[Code](https://github.com/Petrichor625/Gava)**
 
+## AAAI 2024
+- Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation,
+**[arxiv](https://arxiv.org/abs/2403.18447)**
+**[Code](https://github.com/daeheepark/TrajSDE)**
 
 ## CoRL 2023
 - Multi-Predictor Fusion: Combining Learning-based and Rule-based Trajectory Predictors.

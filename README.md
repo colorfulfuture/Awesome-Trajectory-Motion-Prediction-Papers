@@ -120,8 +120,8 @@ ___
 **[Code](https://github.com/Petrichor625/Gava)**
 
 ## AAAI 2024
-- Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation,
-**[arxiv](https://arxiv.org/abs/2403.18447)**
+- Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation.
+**[arXiv](https://arxiv.org/abs/2312.15906)**
 **[Code](https://github.com/daeheepark/TrajSDE)**
 
 ## CoRL 2023

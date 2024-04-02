@@ -1,6 +1,6 @@
 # Trajectory/Motion Prediction Papers
 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.03.20-lightgrey.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.04.02-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -47,6 +47,7 @@ ___
 
 ## CVPR 2024
 - Adapting to Length Shift: FlexiLength Network for Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2404.00742)**
 
 - Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving.
 

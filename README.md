@@ -63,6 +63,7 @@ ___
 - Higher-order Relational Reasoning for Pedestrian Trajectory Prediction.
 
 - HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention.
+**[arXiv](https://arxiv.org/abs/2404.06351)**
 **[Code](https://github.com/XiaolongTang23/HPNet)**
 
 - Human Motion Prediction under Unexpected Perturbation.

@@ -69,6 +69,9 @@ ___
 - Human Motion Prediction under Unexpected Perturbation.
 **[Code](https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation)**
 
+- MoST: Multi-modality Scene Tokenization for Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2404.19531)**
+
 - Producing and Leveraging Online Map Uncertainty in Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2403.16439)**
 **[Code](https://github.com/alfredgu001324/MapUncertaintyPrediction)**
@@ -94,6 +97,7 @@ ___
 **[arXiv](https://arxiv.org/abs/2403.10052)**
 
 - Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning.
+**[arXiv](https://arxiv.org/abs/2404.05218)**
 
 ## ICLR 2024
 - SEPT: Towards Efficient Scene Representation Learning for Motion Prediction.

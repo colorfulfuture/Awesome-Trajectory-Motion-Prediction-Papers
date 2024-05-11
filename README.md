@@ -115,6 +115,11 @@ ___
 
 
 ## ICRA 2024
+- Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions.
+**[Project](https://chantsss.github.io/POP/)**
+**[arXiv](https://arxiv.org/abs/2309.15685)**
+**[Code](https://github.com/chantsss/POP-CODE)**
+
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
 

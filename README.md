@@ -115,10 +115,27 @@ ___
 
 
 ## ICRA 2024
-- Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions.
-**[Project](https://chantsss.github.io/POP/)**
-**[arXiv](https://arxiv.org/abs/2309.15685)**
-**[Code](https://github.com/chantsss/POP-CODE)**
+- CRITERIA: A New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2310.07794)**
+
+- A Novel Benchmarking Paradigm and a Scale- and Motion-Aware Model for Egocentric Pedestrian Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2310.10424)**
+
+- Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2302.10873)**
+
+- DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2310.07438)**
+
+- Disentangled Neural Relational Inference for Interpretable Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2401.03599)**
+
+- FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2401.16189)**
+
+- LaCE-LHMP: Airflow Modelling-Inspired Long-Term Human Motion Prediction by Enhancing Laminar Characteristics in Human Flow.
+**[arXiv](https://arxiv.org/abs/2403.13640)**
+**[Code](https://github.com/test-bai-cpu/LaCE-LHMP)**
 
 - MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2308.10280)**
@@ -127,8 +144,27 @@ ___
 **[arXiv](https://arxiv.org/abs/2312.02409)**
 
 - Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments.
+**[arXix](https://arxiv.org/abs/2402.04318)**
+**[Code](https://github.com/Petrichor625/Gava)**
+
+- Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments.
 **[arXiv](http://arxiv.org/abs/2402.04318)**
 **[Code](https://github.com/Petrichor625/Gava)**
+
+- Improving Autonomous Driving Safety with POP: A Framework for Accurate Partially Observed Trajectory Predictions.
+**[Project](https://chantsss.github.io/POP/)**
+**[arXiv](https://arxiv.org/abs/2309.15685)**
+**[Code](https://github.com/chantsss/POP-CODE)**
+
+- Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning.
+**[arXiv](https://arxiv.org/abs/2309.09021)**
+
+- PBP: Path-based Trajectory Prediction for Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2309.03750)**
+
+- Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments.
+**[arXiv](https://arxiv.org/abs/2309.13893)**
+**[Code](https://github.com/sisl/SceneInformer)**
 
 ## AAAI 2024
 - Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation.

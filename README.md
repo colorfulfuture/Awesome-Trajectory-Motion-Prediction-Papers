@@ -27,7 +27,7 @@ ___
 
 **ICCV** [2023](#iccv-2023)
 
-**ECCV** [2022](#eccv-2022)
+**ECCV** [2022](#eccv-2022) [2024](#eccv-2024)
 
 **NeurIPS** [2023](#neurips-2023) [2022](#neurips-2022)
 
@@ -44,6 +44,23 @@ ___
 **RAL** [2024](#ral-2024)
 
 ---
+
+## ECCV 2024
+- Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction.
+**[arXiv](https://arxiv.org/abs/2407.11494)**
+**[Code](https://github.com/GuoweiXu368/SLD-HMP)**
+
+- MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2407.21635)**
+**[Code](https://github.com/gist-ailab/MART)**
+
+- Progressive Pretext Task Learning for Human Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2407.11588)**
+**[Code](https://github.com/iSEE-Laboratory/PPT)**
+
+- Scene-aware Human Motion Forecasting via Mutual Distance Prediction.
+**[arXiv](https://arxiv.org/abs/2310.00615)**
+**[Code](https://github.com/xccyue/MutualDistance)**
 
 ## CVPR 2024
 - Adapting to Length Shift: FlexiLength Network for Trajectory Prediction.

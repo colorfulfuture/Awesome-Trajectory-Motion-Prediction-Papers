@@ -62,6 +62,10 @@ ___
 **[arXiv](https://arxiv.org/abs/2310.00615)**
 **[Code](https://github.com/xccyue/MutualDistance)**
 
+- UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction.
+**[arXiv](https://arxiv.org/abs/2403.15098)**
+**[Code](https://github.com/vita-epfl/UniTraj)**
+
 ## CVPR 2024
 - Adapting to Length Shift: FlexiLength Network for Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2404.00742)**

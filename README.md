@@ -54,6 +54,11 @@ ___
 **[arXiv](https://arxiv.org/abs/2407.21635)**
 **[Code](https://github.com/gist-ailab/MART)**
 
+- Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation.
+**[arXiv](https://arxiv.org/abs/2408.00374)**
+**[Project](https://yixiaowang7.github.io/OptTrajDiff_Page/)**
+**[Code](https://github.com/YixiaoWang7/OptTrajDiff)**
+
 - Progressive Pretext Task Learning for Human Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2407.11588)**
 **[Code](https://github.com/iSEE-Laboratory/PPT)**

@@ -63,6 +63,10 @@ ___
 **[arXiv](https://arxiv.org/abs/2407.11588)**
 **[Code](https://github.com/iSEE-Laboratory/PPT)**
 
+- PPAD: Iterative Interactions of Prediction and Planning for End-to-end Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2311.08100)**
+**[Code](https://github.com/zlichen/PPAD)**
+
 - Scene-aware Human Motion Forecasting via Mutual Distance Prediction.
 **[arXiv](https://arxiv.org/abs/2310.00615)**
 **[Code](https://github.com/xccyue/MutualDistance)**

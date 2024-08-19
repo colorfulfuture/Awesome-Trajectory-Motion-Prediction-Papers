@@ -76,8 +76,10 @@ ___
 **[arXiv](https://arxiv.org/abs/2404.00742)**
 
 - Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving.
+**[arXiv](https://arxiv.org/abs/2306.15755)**
 
 - CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving.
+**[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf)**
 
 - Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction.
 **[arXiv](https://arxiv.org/abs/2403.18447)**
@@ -85,8 +87,10 @@ ___
 **[Website](https://ihbae.com/publication/lmtrajectory/)**
 
 - Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_Density-Adaptive_Model_Based_on_Motif_Matrix_for_Multi-Agent_Trajectory_Prediction_CVPR_2024_paper.pdf)**
 
 - Higher-order Relational Reasoning for Pedestrian Trajectory Prediction.
+**[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.pdf)**
 
 - HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention.
 **[arXiv](https://arxiv.org/abs/2404.06351)**

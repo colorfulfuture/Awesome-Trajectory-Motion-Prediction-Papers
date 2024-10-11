@@ -29,7 +29,7 @@ ___
 
 **ECCV** [2022](#eccv-2022) [2024](#eccv-2024)
 
-**NeurIPS** [2023](#neurips-2023) [2022](#neurips-2022)
+**NeurIPS** [2024](#neurips-2024) [2023](#neurips-2023) [2022](#neurips-2022)
 
 **ICLR** [2024](#iclr-2024) [2023](#iclr-2023) [2022](#iclr-2022)
 
@@ -44,6 +44,22 @@ ___
 **RAL** [2024](#ral-2024)
 
 ---
+
+## NeurIPS 2024
+
+- MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction.
+
+- LaKD: Length-agnostic Knowledge Distillation for Trajectory Prediction with Any Length Observations.
+
+- Pedestrian Trajectory Prediction with Missing Data: Datasets, Imputation, and Benchmarking.
+
+- Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving.
+
+- SMART: Scalable Multi-agent Real-time Motion Generation Via Next-token Prediction.
+
+- TrajCLIP: Pedestrian Trajectory Prediction Method Using Contrastive Learning and Idempotent Networks.
+
+
 
 ## ECCV 2024
 - Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction.

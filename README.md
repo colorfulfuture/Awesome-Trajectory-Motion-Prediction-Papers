@@ -39,11 +39,17 @@ ___
 
 **IROS** [2023](#iros-2023)
 
-**CoRL** [2023](#corl-2023) [2022](#corl-2022)
+**CoRL** [2024](#corl-2024) [2023](#corl-2023) [2022](#corl-2022)
 
 **RAL** [2024](#ral-2024)
 
 ---
+
+## CoRL 2024
+
+- JointMotion: Joint Self-supervision for Joint Motion Prediction.
+[Paper](https://openreview.net/forum?id=OznnnxPLiH)
+[Code](https://github.com/kit-mrt/future-motion)
 
 ## NeurIPS 2024
 

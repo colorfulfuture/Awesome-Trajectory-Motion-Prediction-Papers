@@ -47,9 +47,20 @@ ___
 
 ## CoRL 2024
 
+- ESCIRL: Evolving Self-Contrastive IRL for Trajectory Prediction in Autonomous Driving.
+[Paper](https://openreview.net/pdf?id=1IzW0aniyg)
+
 - JointMotion: Joint Self-supervision for Joint Motion Prediction.
 [Paper](https://openreview.net/forum?id=OznnnxPLiH)
 [Code](https://github.com/kit-mrt/future-motion)
+
+- Multi-Transmotion: Pre-trained Model for Human Motion Prediction.
+[arXiv](https://arxiv.org/abs/2411.02673)
+[Code](https://github.com/vita-epfl/multi-transmotion)
+
+- Not All Errors Are Made Equal: A Regret Metric for Detecting System-level Trajectory Prediction Failures.
+[arXiv](https://arxiv.org/abs/2403.04745)
+[Project](https://cmu-intentlab.github.io/not-all-errors/)
 
 ## NeurIPS 2024
 

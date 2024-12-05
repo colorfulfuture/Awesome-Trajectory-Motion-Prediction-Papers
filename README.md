@@ -37,7 +37,7 @@ ___
 
 **ICRA** [2024](#icra-2024) [2023](#icra-2023) [2022](#icra-2022)
 
-**IROS** [2023](#iros-2023)
+**IROS** [2023](#iros-2023) [2024](#iros-2024)
 
 **CoRL** [2024](#corl-2024) [2023](#corl-2023) [2022](#corl-2022)
 
@@ -76,7 +76,15 @@ ___
 
 - TrajCLIP: Pedestrian Trajectory Prediction Method Using Contrastive Learning and Idempotent Networks.
 
+## IROS 2024
+- Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed
+ **[arXiv](https://arxiv.org/abs/2409.16154)**
 
+- Improving Out-of-Distribution Generalization of Trajectory Prediction for Autonomous Driving via Polynomial Representations
+ **[arXiv](https://arxiv.org/abs/2407.13431)**
+
+- Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic
+ **[arXiv](https://arxiv.org/abs/2406.01431)**
 
 ## ECCV 2024
 - Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction.

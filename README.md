@@ -64,6 +64,14 @@ ___
 
 ## NeurIPS 2024
 
+- DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States
+ **[arXiv](https://arxiv.org/abs/2410.05982)**
+ **[Code](https://github.com/fudan-zvg/DeMo)**
+
+- Motion Forecasting in Continuous Driving
+ **[arXiv](https://arxiv.org/abs/2410.06007)**
+ **[Code](https://github.com/fudan-zvg/RealMotion)**
+
 - MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction.
 
 - LaKD: Length-agnostic Knowledge Distillation for Trajectory Prediction with Any Length Observations.
@@ -79,6 +87,7 @@ ___
 ## IROS 2024
 - Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed
  **[arXiv](https://arxiv.org/abs/2409.16154)**
+ **[Code](https://github.com/a-pru/emp)**
 
 - Improving Out-of-Distribution Generalization of Trajectory Prediction for Autonomous Driving via Polynomial Representations
  **[arXiv](https://arxiv.org/abs/2407.13431)**

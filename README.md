@@ -65,7 +65,8 @@ ___
 
 
 ## CVPR
-### CVPR 2025 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### CVPR 2025
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 
 - MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation.
 [arXiv](https://arxiv.org/abs/2503.09950)
@@ -102,7 +103,8 @@ ___
 [Code](https://github.com/Jaewoo97/KDTF)
 
 
-### CVPR 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### CVPR 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 CVPR 2024 All Papers [List](https://openaccess.thecvf.com/CVPR2024)
 - Adapting to Length Shift: FlexiLength Network for Trajectory Prediction.
 [arXiv](https://arxiv.org/abs/2404.00742)
@@ -162,7 +164,8 @@ CVPR 2024 All Papers [List](https://openaccess.thecvf.com/CVPR2024)
 [arXiv](https://arxiv.org/abs/2404.05218)
 
 
-### CVPR 2023 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### CVPR 2023 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 CVPR 2023 All Papers [List](https://openaccess.thecvf.com/CVPR2023)
 - Decompose More and Aggregate Better: Two Closer Looks at Frequency Representation Learning for Human Motion Prediction.
 [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Decompose_More_and_Aggregate_Better_Two_Closer_Looks_at_Frequency_CVPR_2023_paper.pdf)
@@ -250,7 +253,8 @@ CVPR 2023 All Papers [List](https://openaccess.thecvf.com/CVPR2023)
 
 
 
-### CVPR 2022 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### CVPR 2022 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 #### Trajectory Prediction Related
 - Adaptive Trajectory Prediction via Transferable GNN.
 [arXiv](https://arxiv.org/abs/2203.05046)
@@ -402,7 +406,8 @@ CVPR 2023 All Papers [List](https://openaccess.thecvf.com/CVPR2023)
 
 
 ## ICCV
-### ICCV 2023 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICCV 2023 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 ICCV 2023 All Papers [List](https://openaccess.thecvf.com/ICCV2023)
 - ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation.
 [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Aydemir_ADAPT_Efficient_Multi-Agent_Trajectory_Prediction_with_Adaptation_ICCV_2023_paper.pdf)
@@ -500,7 +505,8 @@ ICCV 2023 All Papers [List](https://openaccess.thecvf.com/ICCV2023)
 
 
 ## ECCV
-### ECCV 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ECCV 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction.
 [arXiv](https://arxiv.org/abs/2407.11494)
 [Code](https://github.com/GuoweiXu368/SLD-HMP)
@@ -531,7 +537,8 @@ ICCV 2023 All Papers [List](https://openaccess.thecvf.com/ICCV2023)
 [Code](https://github.com/vita-epfl/UniTraj)
 
 
-### ECCV 2022 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ECCV 2022 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 ECCV 2022 All Paper List [List](https://eccv2022.ecva.net/program/accepted-papers/)
 
 - Action-based Contrastive Learning for Trajectory Prediction.
@@ -610,7 +617,8 @@ ECCV 2022 All Paper List [List](https://eccv2022.ecva.net/program/accepted-paper
 
 
 ## NeurIPS
-### NeurIPS 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### NeurIPS 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States.
 [Paper](https://openreview.net/pdf?id=rbtnRsiXSN)
 [arXiv](https://arxiv.org/abs/2410.05982)
@@ -648,7 +656,8 @@ ECCV 2022 All Paper List [List](https://eccv2022.ecva.net/program/accepted-paper
 [Paper](https://openreview.net/pdf?id=fUBFy8tb3z)
 
 
-### NeurIPS 2023 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### NeurIPS 2023 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction.
 [OpenReview](https://openreview.net/forum?id=FOFJmR1oxt)
 
@@ -687,7 +696,8 @@ ECCV 2022 All Paper List [List](https://eccv2022.ecva.net/program/accepted-paper
 [Code](https://github.com/NVlabs/trajdata)
 
 
-### NeurIPS 2022 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### NeurIPS 2022 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 NeurIPS 2022 All Paper List [List](https://nips.cc/virtual/2022/papers.html?filter=titles)
 - Contact-aware Human Motion Forecasting.
 [OpenReview](https://openreview.net/forum?id=LIKlL1Br9AT)
@@ -712,7 +722,8 @@ NeurIPS 2022 All Paper List [List](https://nips.cc/virtual/2022/papers.html?filt
 
 
 ## ICLR
-### ICLR 2025 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICLR 2025 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Interactive Adjustment for Human Trajectory Prediction with Individual Feedback.
 [Paper](https://openreview.net/pdf?id=DCpukR83sw)
 
@@ -737,7 +748,8 @@ NeurIPS 2022 All Paper List [List](https://nips.cc/virtual/2022/papers.html?filt
 [Paper](https://openreview.net/pdf?id=Xmh5gdMfRJ)
 
 
-### ICLR 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICLR 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - SEPT: Towards Efficient Scene Representation Learning for Motion Prediction.
 [arXiv](https://arxiv.org/abs/2309.15289)
  
@@ -746,7 +758,8 @@ NeurIPS 2022 All Paper List [List](https://nips.cc/virtual/2022/papers.html?filt
 [Code](https://github.com/vita-epfl/social-transmotion)
 
 
-### ICLR 2023 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICLR 2023 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Conference#notable-top-5-)
 
 - Learning Heterogeneous Interaction Strengths by Trajectory Prediction with Graph Neural Network.
@@ -760,7 +773,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 [OpenReview](https://openreview.net/forum?id=CGBCTp2M6lA)
 
 
-### ICLR 2022 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICLR 2022 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - D-CODE: Discovering Closed-form ODEs from Observed Trajectories.
 [Paper](https://openreview.net/forum?id=wENMvIsxNN)
 [Code](https://github.com/ZhaozhiQIAN/D-CODE-ICLR-2022)
@@ -785,7 +799,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## ICRA
-### ICRA 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICRA 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - CRITERIA: A New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving.
 [arXiv](https://arxiv.org/abs/2310.07794)
 
@@ -838,7 +853,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 [Code](https://github.com/sisl/SceneInformer)
 
 
-### ICRA 2023 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICRA 2023 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning.
 [arXiv](https://arxiv.org/abs/2209.11820)
 
@@ -852,7 +868,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 [Website](https://zhejz.github.io/trafficbots)
 
 
-### ICRA 2022 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### ICRA 2022 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Path-Aware Graph Attention for HD Maps in Motion Prediction.
 [arXiv](https://arxiv.org/abs/2202.13772)
 
@@ -861,7 +878,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## IROS
-### IROS 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### IROS 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed
 [arXiv](https://arxiv.org/abs/2409.16154)
 [Code](https://github.com/a-pru/emp)
@@ -873,7 +891,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 [arXiv](https://arxiv.org/abs/2406.01431)
 
 
-### IROS 2023 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### IROS 2023 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility.
 [Website](https://saferobotics.princeton.edu/research/responsibility)
 
@@ -890,7 +909,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## CoRL
-### CoRL 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### CoRL 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - ESCIRL: Evolving Self-Contrastive IRL for Trajectory Prediction in Autonomous Driving.
 [Paper](https://openreview.net/pdf?id=1IzW0aniyg)
 
@@ -907,12 +927,14 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 [Project](https://cmu-intentlab.github.io/not-all-errors/)
 
 
-### CoRL 2023 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### CoRL 2023 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Multi-Predictor Fusion: Combining Learning-based and Rule-based Trajectory Predictors.
 [arXiv](https://arxiv.org/abs/2307.01408)
 
 
-### CoRL 2022 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### CoRL 2022 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
 [arXiv](https://arxiv.org/abs/2206.14116)
 [Code](https://github.com/AutoVision-cloud/SSL-Lanes)
@@ -920,7 +942,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## RA-L
-### RA-L 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### RA-L 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - SIMPL: A Simple and Efficient Multi-agent Motion Prediction Baseline for Autonomous Driving.
 [arXiv](https://arxiv.org/abs/2402.02519)
 [Code](https://github.com/HKUST-Aerial-Robotics/SIMPL)
@@ -928,7 +951,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## KDD
-### KDD 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### KDD 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model.
 [arXiv](https://arxiv.org/abs/2404.15380)
 [Code](https://github.com/Yasoz/ControlTraj)
@@ -941,7 +965,8 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## AAAI
-### AAAI 2024 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### AAAI 2024 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation.
 [arXiv](https://arxiv.org/abs/2312.15906)
 [Code](https://github.com/daeheepark/TrajSDE)
@@ -951,20 +976,10 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## arXiv
-### arXiv 2022 [⬆️ Back to Index](#📌-paper-index-by-conference--year)
+### arXiv 2022 
+### [⬆️ Back to Index](#📌-paper-index-by-conference--year)
 - Safety-compliant Generative Adversarial Networks for Human Trajectory Forecasting. 
 [arXiv](https://arxiv.org/abs/2209.12243)
 
 - Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
 [arXiv](https://arxiv.org/abs/2207.05844)
-
-
-
-
-
-
-
-
-
-
-

@@ -19,6 +19,8 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 ## 📢 Latest Updates
 
+> **Apr 16, 2025**: Added a .yml file to auto update the badge ![LastUpdated](https://img.shields.io/badge/LastUpdated-2025.04.16-lightgrey.svg)
+
 > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!
 
 ___

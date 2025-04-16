@@ -71,6 +71,7 @@ ___
 - MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation.
 [arXiv](https://arxiv.org/abs/2503.09950)
 [Code](https://github.com/DSL-Lab/MoFlow)
+[Website](https://moflow-imle.github.io/)
 
 - SocialMOIF：Multi-Order Intention Fusion for Pedestrian Trajectory Prediction.
 

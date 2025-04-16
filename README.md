@@ -17,6 +17,10 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 **Other Paper Collection Repo:** [Github](https://github.com/aras62/vision-based-prediction)
 
+## 📢 Latest Updates
+
+> **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!
+
 ___
 <a name="paper-index"></a>
 ## 📌 Paper Index by Conference & Year
@@ -63,45 +67,43 @@ ___
 ---
 ## 📖 Full Paper List Starts Here
 
-
 ## CVPR
 ### CVPR 2025
 ### [⬆️ Back to Index](#paper-index)
+- Adapting to Observation Length of Trajectory Prediction via Contrastive Learning.
+
+- Certified Human Trajectory Prediction.
+[arXiv](https://arxiv.org/abs/2403.13778)
+
+- Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework.
+
+- Leveraging SD Map to Augment HD Map-based Trajectory Prediction.
 
 - MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation.
 [arXiv](https://arxiv.org/abs/2503.09950)
 [Code](https://github.com/DSL-Lab/MoFlow)
 [Website](https://moflow-imle.github.io/)
 
+- Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.
+[arXiv](https://arxiv.org/abs/2503.22201)
+[Code](https://github.com/Jaewoo97/KDTF)
+
+- Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment.
+[arXiv](https://arxiv.org/abs/2503.17267)
+
 - SocialMOIF：Multi-Order Intention Fusion for Pedestrian Trajectory Prediction.
-
-- Adapting to Observation Length of Trajectory Prediction via Contrastive Learning.
-
-- Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning.
-[arXiv](https://arxiv.org/abs/2411.14519)
-
-- Certified Human Trajectory Prediction.
-[arXiv](https://arxiv.org/abs/2403.13778)
-
-- Leveraging SD Map to Augment HD Map-based Trajectory Prediction.
 
 - Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM.
 [arXiv](https://arxiv.org/abs/2503.10898)
+
+- Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning.
+[arXiv](https://arxiv.org/abs/2411.14519)
 
 - Towards Generalizable Trajectory Prediction using Dual-Level Representation Learning and Adaptive Prompting.
 [arXiv](https://arxiv.org/abs/2501.04815)
 
 - Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling.
 [arXiv](https://arxiv.org/abs/2503.18589)
-
-- Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment.
-[arXiv](https://arxiv.org/abs/2503.17267)
-
-- Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework.
-
-- Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.
-[arXiv](https://arxiv.org/abs/2503.22201)
-[Code](https://github.com/Jaewoo97/KDTF)
 
 
 ### CVPR 2024 

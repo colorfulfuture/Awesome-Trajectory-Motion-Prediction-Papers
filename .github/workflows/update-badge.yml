@@ -1,0 +1,41 @@
+name: Update LastUpdated Badge
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up current date
+        id: date
+        run: echo "date=$(date +'%Y.%m.%d')" >> "$GITHUB_OUTPUT"
+
+      - name: Replace badge date in README
+        run: |
+          today="${{ steps.date.outputs.date }}"
+          echo "Updating LastUpdated badge to $today"
+          sed -i "s|LastUpdated-[0-9.]*-lightgrey.svg|LastUpdated-${today}-lightgrey.svg|g" README.md
+
+      - name: Check for changes
+        id: check_diff
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_diff.outputs.changed == 'true'
+        run: |
+          git config --global user.name "xuyi-bot"
+          git config --global user.email "xuyi@users.noreply.github.com"
+          git commit -am "🔄 auto-update: LastUpdated badge to ${{ steps.date.outputs.date }}"
+          git push

@@ -18,7 +18,7 @@ Recent advances in Large Language Models (LLMs) are transforming how autonomous 
 
 ## 📚 Taxonomy of LLM-based Methods
 <div align="center">
-  <img src="taxonomy.png" width="1000px" height="160px">
+  <img src="taxonomy.png" width="1000px" height="200px">
 </div>
 
 We categorize current research into **five key directions**:

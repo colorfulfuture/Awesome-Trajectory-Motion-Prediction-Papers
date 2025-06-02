@@ -3,6 +3,7 @@
 ![LastUpdated](https://img.shields.io/badge/LastUpdated-2025.04.16-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
 ![topic](https://img.shields.io/badge/topic-motion--prediction-brightgreen.svg?logo=github)
+![topic](https://img.shields.io/badge/topic-LLM--trajectory--prediction-blueviolet.svg?logo=github)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **Collecting Recent Trajectory and Motion Prediction Papers. Keep Updating.
@@ -19,9 +20,17 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 ## 📢 Latest Updates
 
-> **Apr 16, 2025**: Added a .yml file to auto update the badge ![LastUpdated](https://img.shields.io/badge/LastUpdated-2025.04.16-lightgrey.svg)
+> **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
+
+> **Apr 16, 2025**: Added a .yml file to auto update the badge !
 
 > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!
+
+
+## 🔍 Featured Survey
+
+[LLM-based Trajectory Prediction (2025)](./llm_based_survey.md)  
+A curated survey that summarizes recent works using Large Language Models for trajectory prediction tasks.
 
 ___
 <a name="paper-index"></a>

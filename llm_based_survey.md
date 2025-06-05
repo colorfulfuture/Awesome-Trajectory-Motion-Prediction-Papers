@@ -1,5 +1,7 @@
 # Trajectory Prediction Meets Large Language Models: A Survey
 
+[arXiv](https://arxiv.org/abs/2506.03408)
+
 **Yi Xu, Ruining Yang, Yitian Zhang, Yizhou Wang, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu**
 
 *Department of Electrical and Computer Engineering, Northeastern University*  
@@ -18,7 +20,7 @@ Recent advances in Large Language Models (LLMs) are transforming how autonomous 
 
 ## 📚 Taxonomy of LLM-based Methods
 <div align="center">
-  <img src="taxonomy.png" width="1000px" height="200px">
+  <img src="taxonomy.png" width="1000px" height="220px">
 </div>
 
 We categorize current research into **five key directions**:
@@ -77,9 +79,10 @@ Each table includes model types, LLM usage, prompting strategy, fine-tuning meth
 
 Please cite our work if you find it helpful:
 ```bibtex
-@misc{xu2025llmtraj,
+@article{xu2025llmtraj,
   title={Trajectory Prediction Meets Large Language Models: A Survey},
-  author={Yi Xu and Ruining Yang and Yitian Zhang and Yizhou Wang and Jianglin Lu and Mingyuan Zhang and Lili Su and Yun Fu},
+  author={Xu, Yi and Yang, Ruining and Zhang, Yitian and Wang, Yizhou and Lu, Jianglin and Zhang, Mingyuan and Su, Lili and Fu, Yun},
+  journal={arXiv preprint arXiv:2506.03408},
   year={2025},
-  url={https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers}
+  url={https://arxiv.org/abs/2506.03408}
 }

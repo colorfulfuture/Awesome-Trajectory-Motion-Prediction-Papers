@@ -29,8 +29,10 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 ## 🔍 Featured Survey
 
-[LLM-based Trajectory Prediction (2025)](./llm_based_survey.md)  
+[LLM-based Trajectory Prediction (2025)](./llm_based_survey.md) 
+
 A curated survey that summarizes recent works using Large Language Models for trajectory prediction tasks.
+[![arXiv](https://img.shields.io/badge/arXiv-2506.03408-b31b1b.svg)](https://arxiv.org/abs/2506.03408)
 
 ___
 <a name="paper-index"></a>

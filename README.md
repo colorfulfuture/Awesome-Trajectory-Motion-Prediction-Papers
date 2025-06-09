@@ -83,39 +83,57 @@ ___
 ## CVPR
 ### CVPR 2025
 ### [⬆️ Back to Index](#paper-index)
+CVPR 2025 All Papers [List](https://openaccess.thecvf.com/CVPR2025)
 - Adapting to Observation Length of Trajectory Prediction via Contrastive Learning.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qiu_Adapting_to_Observation_Length_of_Trajectory_Prediction_via_Contrastive_Learning_CVPR_2025_paper.pdf)
 
 - Certified Human Trajectory Prediction.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Bahari_Certified_Human_Trajectory_Prediction_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2403.13778)
 
 - Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Enduring_Efficient_and_Robust_Trajectory_Prediction_Attack_in_Autonomous_Driving_CVPR_2025_paper.pdf)
 
 - Leveraging SD Map to Augment HD Map-based Trajectory Prediction.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Leveraging_SD_Map_to_Augment_HD_Map-based_Trajectory_Prediction_CVPR_2025_paper.pdf)
 
 - MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation Distillation.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_MoFlow_One-Step_Flow_Matching_for_Human_Trajectory_Forecasting_via_Implicit_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2503.09950)
 [Code](https://github.com/DSL-Lab/MoFlow)
 [Website](https://moflow-imle.github.io/)
 
 - Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jeong_Multi-modal_Knowledge_Distillation-based_Human_Trajectory_Forecasting_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2503.22201)
 [Code](https://github.com/Jaewoo97/KDTF)
 
 - Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Taketsugu_Physical_Plausibility-aware_Trajectory_Prediction_via_Locomotion_Embodiment_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2503.17267)
 
+- Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Rahimi_Sim-to-Real_Causal_Transfer_A_Metric_Learning_Approach_to_Causally-Aware_Interaction_CVPR_2025_paper.pdf)
+[arXiv](http://arxiv.org/abs/2312.04540)
+
 - SocialMOIF：Multi-Order Intention Fusion for Pedestrian Trajectory Prediction.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_SocialMOIF_Multi-Order_Intention_Fusion_for_Pedestrian_Trajectory_Prediction_CVPR_2025_paper.pdf)
+[arXiv](http://arxiv.org/abs/2504.15616)
 
 - Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Trajectory_Mamba_Efficient_Attention-Mamba_Forecasting_Model_Based_on_Selective_SSM_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2503.10898)
 
 - Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Tra-MoE_Learning_Trajectory_Prediction_Model_from_Multiple_Domains_for_Adaptive_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2411.14519)
 
 - Towards Generalizable Trajectory Prediction using Dual-Level Representation Learning and Adaptive Prompting.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Messaoud_Towards_Generalizable_Trajectory_Prediction_using_Dual-Level_Representation_Learning_and_Adaptive_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2501.04815)
 
 - Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling.
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Capellera_Unified_Uncertainty-Aware_Diffusion_for_Multi-Agent_Trajectory_Modeling_CVPR_2025_paper.pdf)
 [arXiv](https://arxiv.org/abs/2503.18589)
 
 

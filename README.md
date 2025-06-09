@@ -20,11 +20,19 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 ## 📢 Latest Updates
 
-> **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
+> 📌 **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
-> **Apr 16, 2025**: Added a .yml file to auto update the badge !
+> **Jun 09, 2025**: Updated all CVPR 2025 paper links!  
+> **Apr 16, 2025**: Added a .yml file to auto update the badge!  
+<!-- > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!   -->
+
+<details>
+<summary>Some Older Updates</summary>
 
 > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!
+
+</details>
+
 
 
 ## 🔍 Featured Survey

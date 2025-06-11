@@ -9,6 +9,7 @@
 **Collecting Recent Trajectory and Motion Prediction Papers. Keep Updating.
 If you find this repo useful, please ⭐️ star it and feel free to submit a pull request to contribute more papers!**
 
+
 [My Homepage](https://sites.google.com/view/homepage-of-yi-xu) Feel Free to contact me for any potential collaboration with relevant topics of motion/trajectory prediction, generative models, graph neural networks, etc.
 
 ***Email***: xu.yi@northeastern.edu  
@@ -1025,3 +1026,9 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 - Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
 [arXiv](https://arxiv.org/abs/2207.05844)
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers&type=Date)](https://www.star-history.com/#colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers&Date)

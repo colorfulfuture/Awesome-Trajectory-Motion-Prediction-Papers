@@ -53,6 +53,7 @@ ___
   - [CVPR 2023](#cvpr-2023)
   - [CVPR 2022](#cvpr-2022)
 - [ICCV](#iccv)
+  - [ICCV 2025](#iccv-2025)
   - [ICCV 2023](#iccv-2023)
 - [ECCV](#eccv)
   - [ECCV 2024](#eccv-2024)
@@ -66,6 +67,8 @@ ___
   - [ICLR 2024](#iclr-2024)
   - [ICLR 2023](#iclr-2023)
   - [ICLR 2022](#iclr-2022)
+- [ICML](#icml)
+  - [ICML 2025](#icml-2025)
 - [ICRA](#icra)
   - [ICRA 2024](#icra-2024)
   - [ICRA 2023](#icra-2023)
@@ -449,6 +452,12 @@ CVPR 2023 All Papers [List](https://openaccess.thecvf.com/CVPR2023)
 
 
 ## ICCV
+
+### ICCV 2025
+### [⬆️ Back to Index](#paper-index)
+ICCV 2025 All Papers [List]()
+- TBD
+
 ### ICCV 2023 
 ### [⬆️ Back to Index](#paper-index)
 ICCV 2023 All Papers [List](https://openaccess.thecvf.com/ICCV2023)
@@ -840,6 +849,23 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 [Paper](https://openreview.net/forum?id=POxF-LEqnF)
 
 
+
+
+
+## ICML
+### ICML 2025 
+### [⬆️ Back to Index](#paper-index)
+- DriveGPT: Scaling Autoregressive Behavior Models for Driving.
+[Paper](https://openreview.net/forum?id=SBUxQakoJJ)
+[arXiv](https://arxiv.org/abs/2412.14415)
+
+- SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation.
+[Paper](https://openreview.net/forum?id=OYbZWmNHwn&referrer=%5Bthe%20profile%20of%20Zhiyong%20Cui%5D(%2Fprofile%3Fid%3D~Zhiyong_Cui2))
+[arXiv](https://arxiv.org/pdf/2505.24390)
+
+- Three-Dimensional Trajectory Prediction with 3DMoTraj Dataset.
+[Paper](https://openreview.net/forum?id=jkVH7nLzUR&noteId=E8xLdmkLSv)
+[Code](https://github.com/zhouhao94/3DMoTraj)
 
 ## ICRA
 ### ICRA 2024 

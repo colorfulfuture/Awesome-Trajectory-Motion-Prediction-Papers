@@ -23,6 +23,7 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 > 📌 **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
+> **Aug 11, 2025**: Updated all ICML 2025 and ICCV 2025 paper links!
 > **Jun 09, 2025**: Updated all CVPR 2025 paper links!  
 > **Apr 16, 2025**: Added a .yml file to auto update the badge!  
 <!-- > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!   -->
@@ -455,8 +456,30 @@ CVPR 2023 All Papers [List](https://openaccess.thecvf.com/CVPR2023)
 
 ### ICCV 2025
 ### [⬆️ Back to Index](#paper-index)
-ICCV 2025 All Papers [List]()
-- TBD
+ICCV 2025 All Papers [List](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers)
+- AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction.
+[arXiv](https://arxiv.org/abs/2507.01801)
+
+- DONUT: A Decoder-Only Model for Trajectory Prediction.
+[arXiv](https://arxiv.org/abs/2506.06854)
+
+- Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics.
+[arXiv](https://arxiv.org/abs/2507.12083)
+
+- ForeSight: Multi-View Streaming Joint Object Detection and Trajectory Forecasting.
+
+- Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model.
+[arXiv](https://www.arxiv.org/abs/2507.22615)
+
+- NATRA: Noise-Agnostic Framework for Trajectory Prediction with Noisy Observations.
+
+- SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement.
+[arXiv](https://www.arxiv.org/abs/2507.04263)
+
+- TOTP: Transferable Online Pedestrian Trajectory Prediction with Temporal-Adaptive Mamba Latent Diffusion.
+
+- Unified Multi-Agent Trajectory Modeling with Masked Trajectory Diffusion.
+
 
 ### ICCV 2023 
 ### [⬆️ Back to Index](#paper-index)

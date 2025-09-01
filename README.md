@@ -1116,7 +1116,7 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 ### arXiv 2025
 
-[⬆️ Back to Index](#paper-index)
+### [⬆️ Back to Index](#paper-index)
 
 - A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction.
 

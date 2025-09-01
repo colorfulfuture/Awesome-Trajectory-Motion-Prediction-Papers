@@ -827,7 +827,7 @@ NeurIPS 2022 All Paper List [List](https://nips.cc/virtual/2022/papers.html?filt
 ### [⬆️ Back to Index](#paper-index)
 - SEPT: Towards Efficient Scene Representation Learning for Motion Prediction.
 [arXiv](https://arxiv.org/abs/2309.15289)
- 
+
 - Social-Transmotion: Promptable Human Trajectory Prediction.
 [arXiv](https://arxiv.org/abs/2312.16168)
 [Code](https://github.com/vita-epfl/social-transmotion)
@@ -1076,7 +1076,9 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 - Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
 [arXiv](https://arxiv.org/abs/2207.05844)
 
+\- A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction.
 
+ [arXiv](https://arxiv.org/html/2508.16623v1)
 
 ## Star History
 

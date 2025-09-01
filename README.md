@@ -23,7 +23,8 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 > 📌 **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
-> **Aug 11, 2025**: Updated all ICML 2025 and ICCV 2025 paper links!
+> **Sept 01, 2025**: Updated one arXiv 2025 paper.    
+> **Aug 11, 2025**: Updated all ICML 2025 and ICCV 2025 paper links!  
 > **Jun 09, 2025**: Updated all CVPR 2025 paper links!  
 > **Apr 16, 2025**: Added a .yml file to auto update the badge!  
 <!-- > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!   -->
@@ -89,6 +90,7 @@ ___
   - [KDD 2024](#kdd-2024)
 - [arXiv](#arxiv)
   - [arXiv 2022](#arxiv-2022)
+  - [arXiv 2025](#arxiv-2025)
 
 ---
 ## 📖 Full Paper List Starts Here
@@ -1076,6 +1078,10 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 - Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
 [arXiv](https://arxiv.org/abs/2207.05844)
 
+### arXiv 2025 
+### [⬆️ Back to Index](#paper-index)
+- A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction. 
+[arXiv](https://arxiv.org/abs/2508.16623)
 
 
 ## Star History

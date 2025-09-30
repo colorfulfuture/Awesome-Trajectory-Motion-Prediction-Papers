@@ -23,15 +23,14 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 > 📌 **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
+> **Sept 29, 2025**: Added two NeurIPS 2025 papers.  
 > **Sept 01, 2025**: Updated one arXiv 2025 paper.    
 > **Aug 11, 2025**: Updated all ICML 2025 and ICCV 2025 paper links!  
 > **Jun 09, 2025**: Updated all CVPR 2025 paper links!  
-> **Apr 16, 2025**: Added a .yml file to auto update the badge!  
-<!-- > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!   -->
 
 <details>
 <summary>Some Older Updates</summary>
-
+> **Apr 16, 2025**: Added a .yml file to auto update the badge!  
 > **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!
 
 </details>
@@ -61,6 +60,7 @@ ___
   - [ECCV 2024](#eccv-2024)
   - [ECCV 2022](#eccv-2022)
 - [NeurIPS](#neurips)
+  - [NeurIPS 2025](#neurips-2025)
   - [NeurIPS 2024](#neurips-2024)
   - [NeurIPS 2023](#neurips-2023)
   - [NeurIPS 2022](#neurips-2022)
@@ -694,6 +694,16 @@ ECCV 2022 All Paper List [List](https://eccv2022.ecva.net/program/accepted-paper
 
 
 ## NeurIPS
+
+### NeurIPS 2025
+### [⬆️ Back to Index](#paper-index)
+- A Driving-Style-Adaptive Framework for Vehicle Trajectory Prediction.
+
+- Towards Predicting Any Human Trajectory In Context.
+[arXiv](https://arxiv.org/abs/2506.00871)
+
+
+
 ### NeurIPS 2024 
 ### [⬆️ Back to Index](#paper-index)
 - DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States.

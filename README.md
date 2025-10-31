@@ -22,7 +22,7 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 > 📌 **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
-> **Oct 30, 2025**: Updated all ICML 2025 and NeurIPS 2025 paper links!  
+> **Oct 30, 2025**: Updated all NeurIPS 2025 paper links.   
 > **Sept 29, 2025**: Added two NeurIPS 2025 papers.  
 > **Sept 01, 2025**: Updated one arXiv 2025 paper.    
 

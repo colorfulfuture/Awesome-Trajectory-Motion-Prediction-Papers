@@ -73,6 +73,7 @@ ___
 - [ICML](#icml)
   - [ICML 2025](#icml-2025)
 - [ICRA](#icra)
+  - [ICRA 2025](#icra-2025)
   - [ICRA 2024](#icra-2024)
   - [ICRA 2023](#icra-2023)
   - [ICRA 2022](#icra-2022)
@@ -906,6 +907,41 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 [Code](https://github.com/zhouhao94/3DMoTraj)
 
 ## ICRA
+### ICRA 2025
+### [⬆️ Back to Index](#paper-index)
+- Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving.
+[arXiv](https://arxiv.org/abs/2410.07191)
+[Website](https://ehsan-ami.github.io/critic/)
+
+- UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction.
+[arXiv](https://arxiv.org/abs/2505.14866)
+[Code](https://github.com/nisarganc/UPTor)
+[Website](https://nisarganc.github.io/UPTor-page/)
+
+- Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving.
+[arXiv](https://arxiv.org/abs/2502.16589)
+[Code](https://github.com/xiaomiaozhang/Co-MTP)
+[Website](https://xiaomiaozhang.github.io/Co-MTP/)
+
+- Pedestrian Intention and Trajectory Prediction in Unstructured Traffic Using IDD-PeD.
+[arXiv](https://arxiv.org/abs/2506.22111)
+[Code](https://github.com/Ruthvik9/IDD-PeD)
+[Website](https://cvit.iiit.ac.in/research/projects/cvit-projects/iddped)
+
+- AToM: Adaptive Theory-Of-Mind-Based Human Motion Prediction in Long-Term Human-Robot Interactions.
+[arXiv](https://arxiv.org/abs/2502.05792)
+[Code](https://github.com/centiLinda/AToM-human-prediction)
+
+- Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent.
+[arXiv](https://arxiv.org/abs/2311.18307)
+
+- Social-MAE: Social Masked Autoencoder for Multi-Person Motion Representation Learning.
+[arXiv](https://arxiv.org/abs/2404.05578)
+
+- TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction.
+[arXiv](https://arxiv.org/abs/2307.16106)
+
+
 ### ICRA 2024 
 ### [⬆️ Back to Index](#paper-index)
 - CRITERIA: A New Benchmarking Paradigm for Evaluating Trajectory Prediction Models for Autonomous Driving.

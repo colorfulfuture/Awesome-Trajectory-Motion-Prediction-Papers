@@ -50,6 +50,7 @@ ___
 ## 📌 Paper Index by Conference & Year
 
 - [CVPR](#cvpr)
+  - [CVPR 2026](#cvpr-2026)
   - [CVPR 2025](#cvpr-2025)
   - [CVPR 2024](#cvpr-2024)
   - [CVPR 2023](#cvpr-2023)
@@ -98,6 +99,14 @@ ___
 ## 📖 Full Paper List Starts Here
 
 ## CVPR
+### CVPR 2026
+### [⬆️ Back to Index](#paper-index)
+CVPR 2026 All Papers [List](https://openaccess.thecvf.com/CVPR2026)
+- WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. 
+[arXiv](https://arxiv.org/abs/2512.06112)
+[Code](https://github.com/fudan-generative-vision/WAM-Flow)
+
+
 ### CVPR 2025
 ### [⬆️ Back to Index](#paper-index)
 CVPR 2025 All Papers [List](https://openaccess.thecvf.com/CVPR2025)
@@ -1129,10 +1138,6 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 ### arXiv 2025 
 ### [⬆️ Back to Index](#paper-index)
-- WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. 
-[arXiv](https://arxiv.org/abs/2512.06112)
-[Code](https://github.com/fudan-generative-vision/WAM-Flow)
-
 - A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction. 
 [arXiv](https://arxiv.org/abs/2508.16623)
 

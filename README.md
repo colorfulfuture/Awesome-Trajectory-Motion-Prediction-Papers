@@ -22,6 +22,7 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 > 📌 **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
+> **Mar 07, 2026**: Updated all IROS 2025 paper links.  
 > **Oct 30, 2025**: Updated all NeurIPS 2025 paper links.   
 > **Sept 29, 2025**: Added two NeurIPS 2025 papers.  
 > **Sept 01, 2025**: Updated one arXiv 2025 paper.    
@@ -49,50 +50,92 @@ ___
 <a name="paper-index"></a>
 ## 📌 Paper Index by Conference & Year
 
-- [CVPR](#cvpr)
-  - [CVPR 2025](#cvpr-2025)
-  - [CVPR 2024](#cvpr-2024)
-  - [CVPR 2023](#cvpr-2023)
-  - [CVPR 2022](#cvpr-2022)
-- [ICCV](#iccv)
-  - [ICCV 2025](#iccv-2025)
-  - [ICCV 2023](#iccv-2023)
-- [ECCV](#eccv)
-  - [ECCV 2024](#eccv-2024)
-  - [ECCV 2022](#eccv-2022)
-- [NeurIPS](#neurips)
-  - [NeurIPS 2025](#neurips-2025)
-  - [NeurIPS 2024](#neurips-2024)
-  - [NeurIPS 2023](#neurips-2023)
-  - [NeurIPS 2022](#neurips-2022)
-- [ICLR](#iclr)
-  - [ICLR 2025](#iclr-2025)
-  - [ICLR 2024](#iclr-2024)
-  - [ICLR 2023](#iclr-2023)
-  - [ICLR 2022](#iclr-2022)
-- [ICML](#icml)
-  - [ICML 2025](#icml-2025)
-- [ICRA](#icra)
-  - [ICRA 2025](#icra-2025)
-  - [ICRA 2024](#icra-2024)
-  - [ICRA 2023](#icra-2023)
-  - [ICRA 2022](#icra-2022)
-- [IROS](#iros)
-  - [IROS 2024](#iros-2024)
-  - [IROS 2023](#iros-2023)
-- [CoRL](#corl)
-  - [CoRL 2024](#corl-2024)
-  - [CoRL 2023](#corl-2023)
-  - [CoRL 2022](#corl-2022)
-- [RA-L](#ra-l)
-  - [RA-L 2024](#ra-l-2024)
-- [AAAI](#aaai)
-  - [AAAI 2024](#aaai-2024)
-- [KDD](#kdd)
-  - [KDD 2024](#kdd-2024)
-- [arXiv](#arxiv)
-  - [arXiv 2022](#arxiv-2022)
-  - [arXiv 2025](#arxiv-2025)
+- [Trajectory/Motion Prediction Papers](#trajectorymotion-prediction-papers)
+  - [📢 Latest Updates](#-latest-updates)
+  - [🔍 Featured Survey](#-featured-survey)
+  - [📌 Paper Index by Conference \& Year](#-paper-index-by-conference--year)
+  - [📖 Full Paper List Starts Here](#-full-paper-list-starts-here)
+  - [CVPR](#cvpr)
+    - [CVPR 2025](#cvpr-2025)
+    - [⬆️ Back to Index](#️-back-to-index)
+    - [CVPR 2024](#cvpr-2024)
+    - [⬆️ Back to Index](#️-back-to-index-1)
+    - [CVPR 2023](#cvpr-2023)
+    - [⬆️ Back to Index](#️-back-to-index-2)
+    - [CVPR 2022](#cvpr-2022)
+    - [⬆️ Back to Index](#️-back-to-index-3)
+      - [Trajectory Prediction Related](#trajectory-prediction-related)
+      - [Motion Prediction Related](#motion-prediction-related)
+  - [ICCV](#iccv)
+    - [ICCV 2025](#iccv-2025)
+    - [⬆️ Back to Index](#️-back-to-index-4)
+    - [ICCV 2023](#iccv-2023)
+    - [⬆️ Back to Index](#️-back-to-index-5)
+  - [ECCV](#eccv)
+    - [ECCV 2024](#eccv-2024)
+    - [⬆️ Back to Index](#️-back-to-index-6)
+    - [ECCV 2022](#eccv-2022)
+    - [⬆️ Back to Index](#️-back-to-index-7)
+  - [NeurIPS](#neurips)
+    - [NeurIPS 2025](#neurips-2025)
+    - [⬆️ Back to Index](#️-back-to-index-8)
+    - [NeurIPS 2024](#neurips-2024)
+    - [⬆️ Back to Index](#️-back-to-index-9)
+    - [NeurIPS 2023](#neurips-2023)
+    - [⬆️ Back to Index](#️-back-to-index-10)
+      - [Datasets and Benchmarks Track](#datasets-and-benchmarks-track)
+    - [NeurIPS 2022](#neurips-2022)
+    - [⬆️ Back to Index](#️-back-to-index-11)
+  - [ICLR](#iclr)
+    - [ICLR 2025](#iclr-2025)
+    - [⬆️ Back to Index](#️-back-to-index-12)
+    - [ICLR 2024](#iclr-2024)
+    - [⬆️ Back to Index](#️-back-to-index-13)
+    - [ICLR 2023](#iclr-2023)
+    - [⬆️ Back to Index](#️-back-to-index-14)
+    - [ICLR 2022](#iclr-2022)
+    - [⬆️ Back to Index](#️-back-to-index-15)
+  - [ICML](#icml)
+    - [ICML 2025](#icml-2025)
+    - [⬆️ Back to Index](#️-back-to-index-16)
+  - [ICRA](#icra)
+    - [ICRA 2025](#icra-2025)
+    - [⬆️ Back to Index](#️-back-to-index-17)
+    - [ICRA 2024](#icra-2024)
+    - [⬆️ Back to Index](#️-back-to-index-18)
+    - [ICRA 2023](#icra-2023)
+    - [⬆️ Back to Index](#️-back-to-index-19)
+    - [ICRA 2022](#icra-2022)
+    - [⬆️ Back to Index](#️-back-to-index-20)
+  - [IROS](#iros)
+    - [IROS 2025](#iros-2025)
+    - [⬆️ Back to Index](#️-back-to-index-21)
+    - [IROS 2024](#iros-2024)
+    - [⬆️ Back to Index](#️-back-to-index-22)
+    - [IROS 2023](#iros-2023)
+    - [⬆️ Back to Index](#️-back-to-index-23)
+  - [CoRL](#corl)
+    - [CoRL 2024](#corl-2024)
+    - [⬆️ Back to Index](#️-back-to-index-24)
+    - [CoRL 2023](#corl-2023)
+    - [⬆️ Back to Index](#️-back-to-index-25)
+    - [CoRL 2022](#corl-2022)
+    - [⬆️ Back to Index](#️-back-to-index-26)
+  - [RA-L](#ra-l)
+    - [RA-L 2024](#ra-l-2024)
+    - [⬆️ Back to Index](#️-back-to-index-27)
+  - [KDD](#kdd)
+    - [KDD 2024](#kdd-2024)
+    - [⬆️ Back to Index](#️-back-to-index-28)
+  - [AAAI](#aaai)
+    - [AAAI 2024](#aaai-2024)
+    - [⬆️ Back to Index](#️-back-to-index-29)
+  - [arXiv](#arxiv)
+    - [arXiv 2022](#arxiv-2022)
+    - [⬆️ Back to Index](#️-back-to-index-30)
+    - [arXiv 2025](#arxiv-2025)
+    - [⬆️ Back to Index](#️-back-to-index-31)
+  - [Star History](#star-history)
 
 ---
 ## 📖 Full Paper List Starts Here
@@ -1021,6 +1064,26 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## IROS
+### IROS 2025
+### [⬆️ Back to Index](#paper-index)
+- JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction
+[arXiv](https://arxiv.org/abs/2507.17152)
+[Code](https://github.com/LinFunster/JAM)
+
+- Quantifying and modeling driving styles in trajectory forecasting
+[arXiv](https://arxiv.org/abs/2503.04994)
+
+- Trajflow: Multi-modal motion prediction via flow matching
+[arXiv](https://arxiv.org/abs/2506.08541)
+[Code](https://github.com/DSL-Lab/TrajFlow)
+
+- Learning through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback
+[arXiv](https://arxiv.org/abs/2504.13785)
+
+- ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking Using Diffusion Models
+[arXiv](https://arxiv.org/abs/2505.00586)
+
+
 ### IROS 2024 
 ### [⬆️ Back to Index](#paper-index)
 - Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed
@@ -1033,6 +1096,9 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 - Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic
 [arXiv](https://arxiv.org/abs/2406.01431)
 
+- PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning
+[arXiv](https://arxiv.org/abs/2407.18569)
+[Code](https://github.com/LinFunster/PP-TIL)
 
 ### IROS 2023 
 ### [⬆️ Back to Index](#paper-index)

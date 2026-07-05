@@ -1124,7 +1124,7 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## IROS
-### IROS 20245
+### IROS 2025
 ### [⬆️ Back to Index](#paper-index)
 - JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction.
 [arXiv](https://arxiv.org/abs/2507.17152)

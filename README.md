@@ -10,7 +10,7 @@
 If you find this repo useful, please ⭐️ star it and feel free to submit a pull request to contribute more papers!**
 
 
-[My Homepage](https://sites.google.com/view/homepage-of-yi-xu) Feel Free to contact me for any potential collaboration with relevant topics of motion/trajectory prediction, generative models, graph neural networks, etc.
+[My Homepage](https://colorfulfuture.github.io/) Feel Free to contact me for any potential collaboration with relevant topics of motion/trajectory prediction, generative models, graph neural networks, etc.
 
 ***Email***: xu.yi@northeastern.edu  
 ***Wechat***: 578138534
@@ -20,19 +20,20 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 ## 📢 Latest Updates
 
-> 📌 **Jun 02, 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
+> 📌 **Jun 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
-> **Oct 30, 2025**: Updated all NeurIPS 2025 paper links.   
-> **Sept 29, 2025**: Added two NeurIPS 2025 papers.  
-> **Sept 01, 2025**: Updated one arXiv 2025 paper.    
+> **Jul 2026**: Added all ICLR 2026 and CVPR 2026 (Main + Findings) papers.
+> **Oct 2025**: Updated all NeurIPS 2025 paper links.   
+> **Sep 2025**: Added two NeurIPS 2025 papers.  
+> **Sep 2025**: Updated one arXiv 2025 paper.    
 
 <details>
 <summary>Some Older Updates</summary>
 
-> **Aug 11, 2025**: Updated all ICML 2025 and ICCV 2025 paper links!  
-> **Jun 09, 2025**: Updated all CVPR 2025 paper links!  
-> **Apr 16, 2025**: Added a .yml file to auto update the badge!  
-> **Apr 15, 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!
+> **Aug 2025**: Updated all ICML 2025 and ICCV 2025 paper links!  
+> **Jun 2025**: Updated all CVPR 2025 paper links!  
+> **Apr 2025**: Added a .yml file to auto update the badge!  
+> **Apr 2025**: Added **ICLR 2025** and **CVPR 2025** papers to the collection!
 
 </details>
 
@@ -50,6 +51,7 @@ ___
 ## 📌 Paper Index by Conference & Year
 
 - [CVPR](#cvpr)
+  - [CVPR 2026](#cvpr-2026)
   - [CVPR 2025](#cvpr-2025)
   - [CVPR 2024](#cvpr-2024)
   - [CVPR 2023](#cvpr-2023)
@@ -66,6 +68,7 @@ ___
   - [NeurIPS 2023](#neurips-2023)
   - [NeurIPS 2022](#neurips-2022)
 - [ICLR](#iclr)
+  - [ICLR 2026](#iclr-2026)
   - [ICLR 2025](#iclr-2025)
   - [ICLR 2024](#iclr-2024)
   - [ICLR 2023](#iclr-2023)
@@ -98,6 +101,69 @@ ___
 ## 📖 Full Paper List Starts Here
 
 ## CVPR
+### CVPR 2026
+### [⬆️ Back to Index](#paper-index)
+CVPR 2026 Main Conference Papers [List](https://openaccess.thecvf.com/CVPR2026)
+CVPR 2026 Findings Papers [List](https://openaccess.thecvf.com/CVPR2026_findings)
+
+***Main Conference***
+- AutoTraces: Autoregressive Trajectory Forecasting via Multimodal Large Language Models.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_AutoTraces_Autoregressive_Trajectory_Forecasting_via_Multimodal_Large_Language_Models_CVPR_2026_paper.pdf)
+[arXiv](https://arxiv.org/abs/2603.07989)
+
+- Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Den-TP_A_Density-Balanced_Data_Curation_and_Evaluation_Framework_for_Trajectory_CVPR_2026_paper.pdf)
+[Code](https://github.com/RYNing/DenTP)
+
+- Efficient Equivariant Transformer for Self-Driving Agent Modeling.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Efficient_Equivariant_Transformer_for_Self-Driving_Agent_Modeling_CVPR_2026_paper.pdf)
+[arXiv](https://arxiv.org/abs/2604.01466)
+
+- FoSS: Modeling Long-Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier-State Space Integration.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_FoSS_Modeling_Long-Range_Dependencies_and_Multimodal_Uncertainty_in_Trajectory_Prediction_CVPR_2026_paper.pdf)
+[arXiv](https://arxiv.org/abs/2603.01284)
+
+- Gaussian-Mixture Latent Flow for Stochastic 3D Human Motion Prediction.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_Gaussian-Mixture_Latent_Flow_for_Stochastic_3D_Human_Motion_Prediction_CVPR_2026_paper.pdf)
+
+- Perceiving the Near, Reasoning the Distant: Coherent Long-Horizon Trajectory Prediction for Autonomous Driving.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_Perceiving_the_Near_Reasoning_the_Distant_Coherent_Long-Horizon_Trajectory_Prediction_CVPR_2026_paper.pdf)
+
+- Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Progressive_Guessing_to_Fixed_Point_Rethinking_Human_Motion_Prediction_with_CVPR_2026_paper.pdf)
+
+- RAG-TP: A General Framework for Vehicle Trajectory Prediction via Retrieval-Augmented Generation.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_RAG-TP_A_General_Framework_for_Vehicle_Trajectory_Prediction_via_Retrieval-Augmented_CVPR_2026_paper.pdf)
+
+- Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Recover_to_Predict_Progressive_Retrospective_Learning_for_Variable-Length_Trajectory_Prediction_CVPR_2026_paper.pdf)
+[arXiv](https://arxiv.org/abs/2603.10597)
+[Code](https://github.com/zhouhao94/PRF)
+
+- SHARP: Short-Window Streaming for Accurate and Robust Prediction in Motion Forecasting.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Prutsch_SHARP_Short-Window_Streaming_for_Accurate_and_Robust_Prediction_in_Motion_CVPR_2026_paper.pdf)
+[arXiv](https://arxiv.org/abs/2603.28091)
+[Code](https://github.com/a-pru/sharp)
+
+- W2W: Language-Model-Based Trajectory Prediction with Reinforcement Learning.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_W2W_Language-Model-Based_Trajectory_Prediction_with_Reinforcement_Learning_CVPR_2026_paper.pdf)
+
+
+***Findings***
+- BitTP: The Lightweight Trajectory Prediction Model with BitLLM for Edge-Devices.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Kang_BitTP_The_Lightweight_Trajectory_Prediction_Model_with_BitLLM_for_Edge-Devices_CVPRF_2026_paper.pdf)
+[arXiv](https://arxiv.org/abs/2605.29705)
+
+- CoRT-Predictor: Chain of Risk Thought Autoregressive Trajectory Predictor for Autonomous Driving.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Jiang_CoRT-Predictor_Chain_of_Risk_Thought_Autoregressive_Trajectory_Predictor_for_Autonomous_CVPRF_2026_paper.pdf)
+
+- JACoP: Joint Alignment for Compliant Multi-Agent Prediction.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Liu_JACoP_Joint_Alignment_for_Compliant_Multi-Agent_Prediction_CVPRF_2026_paper.pdf)
+
+- KnowMTP: A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Bai_KnowMTP_A_Knowledge-Guided_Framework_for_Multi-Agent_Trajectory_Prediction_in_Autonomous_CVPRF_2026_paper.pdf)
+
+
 ### CVPR 2025
 ### [⬆️ Back to Index](#paper-index)
 CVPR 2025 All Papers [List](https://openaccess.thecvf.com/CVPR2025)
@@ -813,8 +879,37 @@ NeurIPS 2022 All Paper List [List](https://nips.cc/virtual/2022/papers.html?filt
 
 
 ## ICLR
+### ICLR 2026
+### [⬆️ Back to Index](#paper-index)
+ICLR 2026 All Paper List [List](https://iclr.cc/virtual/2026/papers.html)
+
+- EnvSocial-Diff: A Diffusion-Based Crowd Simulation Model with Environmental Conditioning and Individual-Group Interaction.
+[Paper](https://openreview.net/pdf?id=2XBAm3Dbnt)
+[arXiv](https://arxiv.org/abs/2603.23874)
+[Code](https://github.com/zqyq/EnvSocial-Diff)
+
+- HUMOF: Human Motion Forecasting in Interactive Social Scenes.
+[Paper](https://openreview.net/pdf?id=INy8guZqrm)
+[arXiv](https://arxiv.org/abs/2506.03753)
+[Code](https://github.com/scy639/HUMOF)
+
+- JointDiff: Bridging Continuous and Discrete in Multi-Agent Trajectory Generation.
+[Paper](https://openreview.net/pdf?id=6jThckejtL)
+[arXiv](https://arxiv.org/abs/2509.22522)
+[Website](https://guillem-cf.github.io/JointDiff/)
+
+- KinemaDiff: Towards Diffusion for Coherent and Physically Plausible Human Motion Prediction.
+[Paper](https://openreview.net/pdf?id=uxTQeKAUh5)
+
+- TrajTok: What makes for a good trajectory tokenizer in behavior generation?
+[Paper](https://openreview.net/pdf?id=Zvy2agYouY)
+[Code](https://github.com/Thinklab-SJTU/TrajTok)
+
+
 ### ICLR 2025 
 ### [⬆️ Back to Index](#paper-index)
+ICLR 2025 All Paper List [List](https://proceedings.iclr.cc/paper_files/paper/2025)
+
 - Interactive Adjustment for Human Trajectory Prediction with Individual Feedback.
 [Paper](https://openreview.net/pdf?id=DCpukR83sw)
 
@@ -841,6 +936,8 @@ NeurIPS 2022 All Paper List [List](https://nips.cc/virtual/2022/papers.html?filt
 
 ### ICLR 2024 
 ### [⬆️ Back to Index](#paper-index)
+ICLR 2024 All Paper List [List](https://proceedings.iclr.cc/paper_files/paper/2024)
+
 - SEPT: Towards Efficient Scene Representation Learning for Motion Prediction.
 [arXiv](https://arxiv.org/abs/2309.15289)
  

@@ -81,6 +81,7 @@ ___
   - [ICRA 2023](#icra-2023)
   - [ICRA 2022](#icra-2022)
 - [IROS](#iros)
+  - [IROS 2025](#iros-2025)
   - [IROS 2024](#iros-2024)
   - [IROS 2023](#iros-2023)
 - [CoRL](#corl)
@@ -147,6 +148,11 @@ CVPR 2026 Findings Papers [List](https://openaccess.thecvf.com/CVPR2026_findings
 
 - W2W: Language-Model-Based Trajectory Prediction with Reinforcement Learning.
 [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_W2W_Language-Model-Based_Trajectory_Prediction_with_Reinforcement_Learning_CVPR_2026_paper.pdf)
+
+- WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. 
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_WAM-Flow_Parallel_Coarse-to-Fine_Motion_Planning_via_Discrete_Flow_Matching_for_CVPR_2026_paper.pdf)
+[arXiv](https://arxiv.org/abs/2512.06112)
+[Code](https://github.com/fudan-generative-vision/WAM-Flow)
 
 
 ***Findings***
@@ -1118,8 +1124,31 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## IROS
+### IROS 20245
+### [⬆️ Back to Index](#paper-index)
+- JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction.
+[arXiv](https://arxiv.org/abs/2507.17152)
+[Code](https://github.com/LinFunster/JAM)
+
+- Learning through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback.
+[arXiv](https://arxiv.org/abs/2504.13785)
+
+- ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking Using Diffusion Models.
+[arXiv](https://arxiv.org/abs/2505.00586)
+
+- Quantifying and modeling driving styles in trajectory forecasting.
+[arXiv](https://arxiv.org/abs/2503.04994)
+
+- Trajflow: Multi-modal motion prediction via flow matching.
+[arXiv](https://arxiv.org/abs/2506.08541)
+[Code](https://github.com/DSL-Lab/TrajFlow)
+
+
 ### IROS 2024 
 ### [⬆️ Back to Index](#paper-index)
+- Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic
+[arXiv](https://arxiv.org/abs/2406.01431)
+
 - Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed
 [arXiv](https://arxiv.org/abs/2409.16154)
 [Code](https://github.com/a-pru/emp)
@@ -1127,8 +1156,9 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 - Improving Out-of-Distribution Generalization of Trajectory Prediction for Autonomous Driving via Polynomial Representations
 [arXiv](https://arxiv.org/abs/2407.13431)
 
-- Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic
-[arXiv](https://arxiv.org/abs/2406.01431)
+- PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning
+[arXiv](https://arxiv.org/abs/2407.18569)
+[Code](https://github.com/LinFunster/PP-TIL)
 
 
 ### IROS 2023 
@@ -1226,10 +1256,6 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 ### arXiv 2025 
 ### [⬆️ Back to Index](#paper-index)
-- WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving. 
-[arXiv](https://arxiv.org/abs/2512.06112)
-[Code](https://github.com/fudan-generative-vision/WAM-Flow)
-
 - A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction. 
 [arXiv](https://arxiv.org/abs/2508.16623)
 

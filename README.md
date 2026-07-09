@@ -165,6 +165,8 @@ CVPR 2026 Findings Papers [List](https://openaccess.thecvf.com/CVPR2026_findings
 
 - JACoP: Joint Alignment for Compliant Multi-Agent Prediction.
 [Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Liu_JACoP_Joint_Alignment_for_Compliant_Multi-Agent_Prediction_CVPRF_2026_paper.pdf)
+[arXiv](https://arxiv.org/pdf/2605.11385)
+[Code](https://github.com/TL-QZ/JACoP)
 
 - KnowMTP: A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving.
 [Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Bai_KnowMTP_A_Knowledge-Guided_Framework_for_Multi-Agent_Trajectory_Prediction_in_Autonomous_CVPRF_2026_paper.pdf)

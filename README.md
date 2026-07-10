@@ -1261,5 +1261,4 @@ ICLR 2023 All Paper List [List](https://openreview.net/group?id=ICLR.cc/2023/Con
 
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers&type=Date)](https://www.star-history.com/#colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers&Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers&type=date&legend=top-left&sealed_token=aqLNVIx1MhofwzeyxBupf-fDXU4bIypl5DKle9b2xV_BB0XCCp7nPZP4HpCW6U7lybOfoWNq_TOZU0cdLOTKp6uzPOKr1eNTmSQ_UUh9nIYOKOY_dGg5kw)](https://www.star-history.com/?type=date&repos=colorfulfuture%2FAwesome-Trajectory-Motion-Prediction-Papers)

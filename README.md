@@ -20,6 +20,8 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 ## 📢 Latest Updates
 
+> 📌 **Jul 2026**: Released a new survey on post-training for end-to-end autonomous driving. [Read it on arXiv](https://arxiv.org/abs/2607.08072).
+
 > 📌 **Jun 2025**: Added a new LLM-based trajectory prediction survey categorizing relevant papers and outlining future directions. [Read it here](./llm_based_survey.md).
 
 > **Jul 2026**: Added all ICLR 2026 and CVPR 2026 (Main + Findings) papers.
@@ -40,6 +42,11 @@ If you find this repo useful, please ⭐️ star it and feel free to submit a pu
 
 
 ## 🔍 Featured Survey
+
+[Post-Training in End-to-End Autonomous Driving: A Unified View (2026)](https://arxiv.org/abs/2607.08072)
+
+A unified view of post-training techniques for end-to-end autonomous driving systems.
+[![arXiv](https://img.shields.io/badge/arXiv-2607.08072-b31b1b.svg)](https://arxiv.org/abs/2607.08072)
 
 [LLM-based Trajectory Prediction (2025)](./llm_based_survey.md) 
 
